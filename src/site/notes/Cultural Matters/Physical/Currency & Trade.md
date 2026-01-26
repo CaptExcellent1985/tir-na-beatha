@@ -11,8 +11,8 @@
 > | Type                |   Trade  |
 > | Associated Tribes   |   [[The Tuatha\|Tuatha]]  |
 > | Associated Factions |  [[Factions/Weave-mothers\|Weave-mothers]],[[Factions/Cailleotairi\|Cailleotairi]]   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 #### Summary
 > The trading currency of all [[The Tuatha\|Tuatha]] is referred to as "knots". Woven from the silk of the [[Cultural Matters/Physical/Lumina Moth\|Lumina Moth]], the value of each knot is determined by the complexity of the weave-work. The most basic unit is the *single knot*, scaling from there to the *double*, the *square*, and finally the *eternity knot*. The most common unit amongst the traders of the [[Tir Na Beatha\|Tir]] is the *square knot*, while the *single* and *double knot* are the units that most day-to-day business is conducted with. 

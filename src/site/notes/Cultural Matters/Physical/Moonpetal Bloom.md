@@ -9,10 +9,10 @@
 > |        Moonpetal Bloom             |     |
 > | ------------------- | --- |
 > | Type                |   Ecological  |
-> | Associated Tribes   |   `= this.Tribes`  |
+> | Associated Tribes   |   N/A  |
 > | Associated Factions |  [[Factions/Weave-mothers\|Weave-mothers]]   |
 > | Associated Dieties  |   [[Religion/Pantheon/Arianrhod\|Arianrhod]],[[Religion/Pantheon/Blodeuwedd\|Blodeuwedd]]  |
-> | Also Known As       |   `= this.AKA`  |
+> | Also Known As       |   N/A  |
 
 
 #### Summary

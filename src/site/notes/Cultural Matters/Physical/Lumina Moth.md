@@ -11,8 +11,8 @@
 > | Type                |   Ecological  |
 > | Associated Tribes   |   [[The Tribes/Halflings\|Halflings]]  |
 > | Associated Factions |  [[Factions/Weave-mothers\|Weave-mothers]]   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 #### Summary
 > Native to a small region where the [[Geography/Region/Granna Abhaine\|Granna Abhaine]] and [[Geography/Region/Tiriosann River\|Tiriosann River]] cross and the area arround [[Geography/City/Aite-Briethe\|Aite-Briethe]], the Lumina Moth is a creature suffused with fey energy. Nocturnal creatures, they feed on the blossom of the [[Cultural Matters/Physical/Moonpetal Bloom\|Moonpetal Bloom]] and produce the highly valuable [[Cultural Matters/Physical/Lumina Silk\|Lumina Silk]]. 

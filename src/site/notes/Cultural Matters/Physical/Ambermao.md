@@ -10,9 +10,9 @@
 > | ------------------- | --- |
 > | Type                |   Cultural,Ecological,Trade,Utility  |
 > | Associated Tribes   |   [[The Tribes/Tabaxi\|Tabaxi]]  |
-> | Associated Factions |  `= this.Factions`   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Factions |  N/A   |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 #### Summary
 > Insert Quick Blurb Here, 1-2 paragraphs
