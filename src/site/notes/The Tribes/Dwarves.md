@@ -6,7 +6,7 @@
 >[!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> |      ` = this.file.name `       |     |
+> |      Dwarves       |     |
 > | ----------- | --- |
 > | Homeland    |   [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]   |
 > | Capital | [[Geography/City/Ceardaigh\|Ceardaigh]] |
