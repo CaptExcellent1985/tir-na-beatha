@@ -8,7 +8,7 @@
 > 
 > |        Ambermao             |     |
 > | ------------------- | --- |
-> | Type                |   Cultural,Ecological,Trade,Utility  |
+> | Type                |   Cultural, Ecological, Trade, Utility  |
 > | Associated Tribes   |   [[The Tribes/Tabaxi\|Tabaxi]]  |
 > | Associated Factions |  N/A   |
 > | Associated Dieties  |   N/A  |
