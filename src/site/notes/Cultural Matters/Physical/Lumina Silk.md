@@ -8,10 +8,10 @@
 > 
 > |        Lumina Silk             |     |
 > | ------------------- | --- |
-> | Type                |   Ecological,Trade  |
+> | Type                |   Ecological, Trade  |
 > | Associated Tribes   |   N/A  |
 > | Associated Factions |  [[Factions/Weave-mothers\|Weave-mothers]]   |
-> | Associated Dieties  |   [[Religion/Pantheon/Arianrhod\|Arianrhod]],[[Religion/Pantheon/Blodeuwedd\|Blodeuwedd]]  |
+> | Associated Dieties  |   [[Religion/Pantheon/Arianrhod\|Arianrhod]], [[Religion/Pantheon/Blodeuwedd\|Blodeuwedd]]  |
 > | Also Known As       |   N/A  |
 
 #### Summary

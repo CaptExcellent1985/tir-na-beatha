@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> Insert Image Here, preceded by !
+> ![AmbermaoDust.png](/img/user/AmbermaoDust.png)
 > 
 > |        Ambermao             |     |
 > | ------------------- | --- |

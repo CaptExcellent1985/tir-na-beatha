@@ -10,7 +10,7 @@
 > | ------------------- | --- |
 > | Type                |   Trade  |
 > | Associated Tribes   |   [[The Tuatha\|Tuatha]]  |
-> | Associated Factions |  [[Factions/Weave-mothers\|Weave-mothers]],[[Factions/Cailleotairi\|Cailleotairi]]   |
+> | Associated Factions |  [[Factions/Weave-mothers\|Weave-mothers]], [[Factions/Cailleotairi\|Cailleotairi]]   |
 > | Associated Dieties  |   N/A  |
 > | Also Known As       |   N/A  |
 
