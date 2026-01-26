@@ -6,10 +6,10 @@
 >[!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> |      ` = this.file.name`       |     |
+> |      ` = this.file.name `       |     |
 > | ----------- | --- |
-> | Homeland    |      |
-> | Capital |  |
+> | Homeland    |   [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]   |
+> | Capital | ` = this.Capital` |
 > | Factions    |     |
 > | Disposition |     |
 > | Dieties | |
