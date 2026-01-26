@@ -9,7 +9,7 @@
 > |      ` = this.file.name `       |     |
 > | ----------- | --- |
 > | Homeland    |   [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]   |
-> | Capital | ` = this.Capital` |
+> | Capital | [[Geography/City/Ceardaigh\|Ceardaigh]] |
 > | Factions    |     |
 > | Disposition |     |
 > | Dieties | |
