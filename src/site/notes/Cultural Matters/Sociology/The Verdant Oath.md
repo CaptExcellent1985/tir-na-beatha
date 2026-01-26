@@ -8,11 +8,11 @@
 > 
 > |        The Verdant Oath             |     |
 > | ------------------- | --- |
-> | Type                |   Philosophies,Values  |
-> | Associated Tribes   |   `= this.Tribes`  |
+> | Type                |   Philosophies, Values  |
+> | Associated Tribes   |   N/A  |
 > | Associated Factions |  [[Factions/Cailleotairi\|Cailleotairi]]   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 
 #### Summary

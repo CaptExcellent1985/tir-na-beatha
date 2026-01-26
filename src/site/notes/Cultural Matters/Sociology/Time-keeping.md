@@ -10,9 +10,9 @@
 > | ------------------- | --- |
 > | Type                |   Customs  |
 > | Associated Tribes   |   [[The Tuatha\|Tuatha]]  |
-> | Associated Factions |  `= this.Factions`   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Factions |  N/A   |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 
 #### Summary

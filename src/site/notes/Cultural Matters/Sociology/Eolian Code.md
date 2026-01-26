@@ -11,8 +11,8 @@
 > | Type                |   Philosophies  |
 > | Associated Tribes   |   [[The Tribes/Gnomes\|Gnomes]]  |
 > | Associated Factions |  [[Factions/Eolian Scribes\|Eolian Scribes]]   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 #### Summary
 > Insert Quick Blurb Here, 1-2 paragraphs

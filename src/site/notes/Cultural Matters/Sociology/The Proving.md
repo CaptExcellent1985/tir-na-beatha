@@ -11,8 +11,8 @@
 > | Type                |   Customs  |
 > | Associated Tribes   |   [[The Tuatha\|Tuatha]]  |
 > | Associated Factions |  [[Factions/Cailleotairi\|Cailleotairi]]   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 
 #### Summary

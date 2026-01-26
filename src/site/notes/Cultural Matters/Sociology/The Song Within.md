@@ -8,11 +8,11 @@
 > 
 > |        The Song Within             |     |
 > | ------------------- | --- |
-> | Type                |   Customs,Philosophies  |
+> | Type                |   Customs, Philosophies  |
 > | Associated Tribes   |   [[The Tribes/Kenku\|Kenku]]  |
-> | Associated Factions |  `= this.Factions`   |
-> | Associated Dieties  |   `= this.Dieties`  |
-> | Also Known As       |   `= this.AKA`  |
+> | Associated Factions |  N/A   |
+> | Associated Dieties  |   N/A  |
+> | Also Known As       |   N/A  |
 
 
 #### Summary
