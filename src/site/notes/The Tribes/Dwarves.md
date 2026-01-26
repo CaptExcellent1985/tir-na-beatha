@@ -1,5 +1,5 @@
 ---
-{"Type":"Tribes","Progress":"🟡 In Progress","dg-publish":true,"Location":"[[Ceardlachd Forest]]","Capital":"[[Ceardaigh]]","Factions":null,"Disposition":"🟡 Neutral","Politics":"Facist-Leaning Clan based Monarchy","Economics":"Craftmanship, lumber","CoreValue":null,"Taboos":null,"AlliedTribes":["[[Gnomes]]","[[Lizard-folk]]"],"RivalTribes":["[[Wood Elves]]"],"CurrentLeader":null,"aliases":["Dwarf"],"permalink":"/the-tribes/dwarves/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/the-tribes/dwarves/"}
 ---
 
 
