@@ -12,7 +12,8 @@
 > | Type                |  Forest    |
 > | Category            |  Region   |
 > | Creatures | [Encounter Table](Insert Link Here)  |
->
+
+
 #### Summary
 > Insert quick blurb here, no more than 1 or 2 paragraphs
 
