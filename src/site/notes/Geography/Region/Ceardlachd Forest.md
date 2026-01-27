@@ -21,9 +21,13 @@
 > Insert blurb about noteworthy Flora and Fauna of the Region
 
 #### Prominent Locations
-
-###### Name (Cross-Link if possible)
-> Quick blurb about sub-location and it's connection to the region as a whole
+>  | Name                                                       | Located In                                                   | Type     | Sub-Type | Primary NPC |
+> | ---------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- | ----------- |
+> | [[Geography/City/Ceardaigh\|Ceardaigh]]                 | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] | City     | N/A      | N/A         |
+> | [[Geography/City/Tre Coedwig\|Tre Coedwig]]             | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] | City     | N/A      | N/A         |
+> | [[Geography/Landmark/Caillech's Foot\|Caillech's Foot]] | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] | Landmark | Ruin     | N/A         |
+> 
+{ .block-language-dataview} 
 
 #### Notable Events
 
