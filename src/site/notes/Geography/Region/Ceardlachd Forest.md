@@ -21,18 +21,20 @@
 > Insert blurb about noteworthy Flora and Fauna of the Region
 
 #### Prominent Locations
->  | Name                                                       | Located In                                                   | Type     | Sub-Type | Primary NPC |
-> | ---------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- | ----------- |
-> | [[Geography/City/Ceardaigh\|Ceardaigh]]                 | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] | City     | N/A      | N/A         |
-> | [[Geography/City/Tre Coedwig\|Tre Coedwig]]             | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] | City     | N/A      | N/A         |
-> | [[Geography/Landmark/Caillech's Foot\|Caillech's Foot]] | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] | Landmark | Ruin     | N/A         |
+>  | Name                                                       | Type     | Sub-Type | Primary NPC |
+> | ---------------------------------------------------------- | -------- | -------- | ----------- |
+> | [[Geography/City/Ceardaigh\|Ceardaigh]]                 | City     | N/A      | N/A         |
+> | [[Geography/City/Tre Coedwig\|Tre Coedwig]]             | City     | N/A      | N/A         |
+> | [[Geography/Landmark/Caillech's Foot\|Caillech's Foot]] | Landmark | Ruin     | N/A         |
 > 
 { .block-language-dataview} 
 
 #### Notable Events
-
-###### Name (Cross-Link if possible)
-> Quick blurb about the historical event that happened at this location
+>  | Name                                        | Year | Era                     | Factions | Tribes                                                                                                |
+> | ------------------------------------------- | ---- | ----------------------- | -------- | ----------------------------------------------------------------------------------------------------- |
+> | [[History/The Rimeblast\|The Rimeblast]] | 100  | ATT (After the Telling) | N/A      | <ul><li>[[The Tribes/Tieflings.md\\|Tieflings]]</li><li>[[The Tribes/Dwarves.md\\|Dwarves]]</li></ul> |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM's notes here, to be integrated later
