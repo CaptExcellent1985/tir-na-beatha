@@ -12,7 +12,7 @@
 > | Type            |  Civic   |
 > | Sub-Type        |  Law & Administration   |
 > | Factions        |  [[Factions/Cailleotairi\|Cailleotairi]]   |
-> | Located In |  ` = default(join(this.GeoParent, ", "), "N/A")`  |
+> | Located In |  [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Primary NPC     |  N/A   |
 
 #### Summary

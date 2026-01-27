@@ -12,7 +12,7 @@
 > | Type            |  District   |
 > | Sub-Type        |  N/A   |
 > | Factions        |  N/A   |
-> | Located In |  ` = default(join(this.GeoParent, ", "), "N/A")`  |
+> | Located In |  [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Primary NPC     |  N/A   |
 
 #### Summary

@@ -12,7 +12,7 @@
 > | Type            |  Civic   |
 > | Sub-Type        |  Law & Administration   |
 > | Factions        |  [[Factions/Cailleotairi\|Cailleotairi]]   |
-> | Located In |  ` = default(join(this.GeoParent, ", "), "N/A")`  |
+> | Located In |  [[Geography/Locale/Cruachan Heights\|Cruachan Heights]]  |
 > | Primary NPC     |  N/A   |
 
 
