@@ -8,13 +8,13 @@
 > 
 > |   Aite-Briethe          |     |
 > | ------------------ | --- |
-> | Pronunciation      |  ` = default(join(this.Pronunciation, ", "), "N/A")`   |
-> | Category           |  ` = default(join(this.GeoCategory, ", "), "N/A")`   |
-> | Located In         |  ` = default(join(this.GeoParent, ", "), "N/A")`   |
-> | Population |  ` = default(join(this.Population, ", "), "N/A")`    |
-> | Tribes             |   ` = default(join(this.Tribes, ", "), "N/A")`  |
-> | Factions           |  ` = default(join(this.Factions, ", "), "N/A")`   |
-> | Organization | ` = default(join(this.Organization, ", "), "N/A")` |
+> | Pronunciation      |  EYE-te BREE-th   |
+> | Category           |  City   |
+> | Located In         |  [[Tir Na Beatha\|Tir]]   |
+> | Population |  N/A    |
+> | Tribes             |   [[The Tuatha\|Tuatha]]  |
+> | Factions           |  [[Factions/Cailleotairi\|Cailleotairi]]   |
+> | Organization | Representative Council of Elders |
 > | Notable NPCs       |     |
 > | Notable Events     |     |
 
