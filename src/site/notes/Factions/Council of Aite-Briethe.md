@@ -40,8 +40,9 @@
 { .block-language-dataview}
 
 #### Associated Locations
->  | Name | Located In | Type | Sub-Type | Primary NPC |
-> | ---- | ---------- | ---- | -------- | ----------- |
+>  | Name                                             | Located In                | Type | Sub-Type         | Primary NPC |
+> | ------------------------------------------------ | ------------------------- | ---- | ---------------- | ----------- |
+> | [[Geography/City/Aite-Briethe\|Aite-Briethe]] | [[Tir Na Beatha\|Tir]] | City | Cultural Capital | N/A         |
 > 
 { .block-language-dataview} 
 

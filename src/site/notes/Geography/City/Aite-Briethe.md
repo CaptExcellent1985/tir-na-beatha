@@ -13,11 +13,8 @@
 > | Located In         |  [[Tir Na Beatha\|Tir]]   |
 > | Population |  N/A    |
 > | Tribes             |   [[The Tuatha\|Tuatha]]  |
-> | Factions           |  [[Factions/Cailleotairi\|Cailleotairi]]   |
+> | Factions           |  [[Factions/Cailleotairi\|Cailleotairi]], [[Factions/Weave-mothers\|Weave-mothers]], [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]]   |
 > | Organization | Representative Council of Elders |
-> | Notable NPCs       |     |
-> | Notable Events     |     |
-
 
 #### Summary
 > Quick blurb here, no more than 1-2 paragraphs
