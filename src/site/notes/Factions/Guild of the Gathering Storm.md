@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | Guild of the Gathering Storm |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | N/A      |
 > | Ethos              | N/A          |

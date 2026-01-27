@@ -6,7 +6,7 @@
 > [!Infobox]
 > ![Weave-mothers.png](/img/user/Assets/Symbols/Weave-mothers.png)
 > 
-> | ` =this.file.name` |                                  |
+> | Weave-mothers |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | [[Geography/Locale/Siorlann\|Siorlann]]      |
 > | Ethos              | Trust is Woven          |

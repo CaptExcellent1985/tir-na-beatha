@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | Cogswyr Syndicate |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | [[Geography/City/Cogswyr\|Cogswyr]]      |
 > | Ethos              | N/A          |

@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | Eolian Scribes |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | [[Geography/City/Eolas\|Eolas]]      |
 > | Ethos              | N/A          |

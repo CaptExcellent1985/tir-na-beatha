@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | The Crimson Daggers |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | [[Geography/City/Garnhold\|Garnhold]]      |
 > | Ethos              | N/A          |

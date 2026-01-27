@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | Council of Aite-Briethe |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | [[Geography/City/Aite-Briethe\|Aite-Briethe]]      |
 > | Ethos              | N/A          |

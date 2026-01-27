@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | Order of the White Tower|                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | N/A      |
 > | Ethos              | N/A          |

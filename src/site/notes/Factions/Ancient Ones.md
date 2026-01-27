@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | Ancient Ones |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | [[Tir Na Beatha\|Tir]]      |
 > | Ethos              | N/A          |

@@ -6,7 +6,7 @@
 > [!Infobox]
 > ![CailleotairiSymbol.jpg](/img/user/Assets/Symbols/CailleotairiSymbol.jpg)
 > 
-> | ` =this.file.name` |                                  |
+> | Cailleotairi |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | [[Geography/Locale/Siorlann\|Siorlann]]      |
 > | Ethos              | Duty, Honour, Unity          |

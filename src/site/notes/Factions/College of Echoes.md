@@ -6,7 +6,7 @@
 > [!Infobox]
 > Insert Image here, preceded by ! to embed
 > 
-> | ` =this.file.name` |                                  |
+> | College of Echoes |                                  |
 > | ------------------ | -------------------------------- |
 > | Headquarters       | N/A      |
 > | Ethos              | N/A          |
