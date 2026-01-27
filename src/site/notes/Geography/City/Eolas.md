@@ -30,9 +30,12 @@
 > 
 { .block-language-dataview} 
 
-#### History
-###### Event (Cross-link if possible)
-> Quick Summary of event and how it influenced the area
+#### Notable Events
+>  | Name                                        | Year | Era                     | Factions                                                                                                                        | Tribes                                              |
+> | ------------------------------------------- | ---- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+> | [[History/Eolian Schism\|Eolian Schism]] | 180  | ATT (After the Telling) | <ul><li>[[Factions/Cogswyr Syndicate.md\\|Cogswyr Syndicate]]</li><li>[[Factions/Eolian Scribes.md\\|Eolian Scribes]]</li></ul> | <ul><li>[[The Tribes/Gnomes.md\\|Gnomes]]</li></ul> |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM notes here, to be integrated later.

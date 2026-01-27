@@ -37,6 +37,14 @@
 | Item Three     | 3 gp  |
 | Item Four      | 4 gp  |
 | ...            | ...   |
+
+#### Notable Events
+>  | Name | Year | Era | Factions | Tribes |
+> | ---- | ---- | --- | -------- | ------ |
+> 
+{ .block-language-dataview} 
+
+
 #### DM's Notes
 
 - Insert DM's Notes to be integrated later

@@ -31,9 +31,18 @@
 > 
 { .block-language-dataview} 
 
-#### History
-###### Event (Cross-link if possible)
-> Quick Summary of event and how it influenced the area
+#### Notable Events
+>  | Name                                                                                              | Year | Era                     | Factions                                                                                                            | Tribes                                                    |
+> | ------------------------------------------------------------------------------------------------- | ---- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+> | [[History/Awakening of the Elders\|Awakening of the Elders]]                                   | 1    | ATT (After the Telling) | N/A                                                                                                                 | <ul><li>[[The Tuatha.md\\|Tuatha]]</li></ul>              |
+> | [[History/The Sundering Plague\|The Sundering Plague]]                                         | 100  | ATT (After the Telling) | N/A                                                                                                                 | <ul><li>[[The Tuatha.md\\|Tuatha]]</li></ul>              |
+> | [[History/First Lumina Harvest\|First Lumina Harvest]]                                         | 1000 | ATT (After the Telling) | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li><li>[[Factions/Weave-mothers.md\\|Weave-mothers]]</li></ul> | <ul><li>[[The Tribes/Halflings.md\\|Halflings]]</li></ul> |
+> | [[History/The Weave-Mother's Peace\|The Weave-Mother's Peace]]                                 | 1053 | ATT (After the Telling) | <ul><li>[[Factions/Weave-mothers.md\\|Weave-mothers]]</li><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul> | <ul><li>[[The Tuatha.md\\|Tuatha]]</li></ul>              |
+> | [[History/Binding of the First Scions\|Binding of the First Scions]]                           | 275  | ATT (After the Telling) | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul>                                                       | <ul><li>[[The Tuatha.md\\|Tuatha]]</li></ul>              |
+> | [[History/Founding of the Cailleotairi\|Founding of the Cailleotairi]]                         | 276  | ATT (After the Telling) | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul>                                                       | N/A                                                       |
+> | [[History/Construction of the Cailleotairi Enclave\|Construction of the Cailleotairi Enclave]] | 675  | ATT (After the Telling) | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul>                                                       | N/A                                                       |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM notes here, to be integrated later.

@@ -23,9 +23,12 @@
 
 #### Description
 
-#### History
-###### Sub-heading
-> Insert information here about historical context
+#### Notable Events
+>  | Name                                                                      | Year | Era                     | Factions | Tribes                                                        |
+> | ------------------------------------------------------------------------- | ---- | ----------------------- | -------- | ------------------------------------------------------------- |
+> | [[History/Awakening of the Searing Eye\|Awakening of the Searing Eye]] | 1520 | ATT (After the Telling) | N/A      | <ul><li>[[The Tribes/Lizard-folk.md\\|Lizard-folk]]</li></ul> |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM's Notes here, to be integrated later

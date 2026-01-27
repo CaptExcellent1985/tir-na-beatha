@@ -30,9 +30,12 @@
 > 
 { .block-language-dataview} 
 
-#### History
-###### Event (Cross-link if possible)
-> Quick Summary of event and how it influenced the area
+#### Notable Events
+>  | Name                                        | Year | Era                     | Factions | Tribes                                                                                                |
+> | ------------------------------------------- | ---- | ----------------------- | -------- | ----------------------------------------------------------------------------------------------------- |
+> | [[History/The Rimeblast\|The Rimeblast]] | 100  | ATT (After the Telling) | N/A      | <ul><li>[[The Tribes/Tieflings.md\\|Tieflings]]</li><li>[[The Tribes/Dwarves.md\\|Dwarves]]</li></ul> |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM notes here, to be integrated later.

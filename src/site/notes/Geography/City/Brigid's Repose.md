@@ -30,9 +30,11 @@
 > 
 { .block-language-dataview} 
 
-#### History
-###### Event (Cross-link if possible)
-> Quick Summary of event and how it influenced the area
+#### Notable Events
+>  | Name | Year | Era | Factions | Tribes |
+> | ---- | ---- | --- | -------- | ------ |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM notes here, to be integrated later.

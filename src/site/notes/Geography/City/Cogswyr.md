@@ -30,9 +30,13 @@
 > 
 { .block-language-dataview} 
 
-#### History
-###### Event (Cross-link if possible)
-> Quick Summary of event and how it influenced the area
+#### Notable Events
+>  | Name                                                          | Year | Era                     | Factions                                                                                                                                                                            | Tribes                                              |
+> | ------------------------------------------------------------- | ---- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+> | [[History/The Rune-Breach Folly\|The Rune-Breach Folly]]   | 1050 | ATT (After the Telling) | N/A                                                                                                                                                                                 | <ul><li>[[The Tribes/Gnomes.md\\|Gnomes]]</li></ul> |
+> | [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]] | 1575 | ATT (After the Telling) | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li><li>[[Factions/Cogswyr Syndicate.md\\|Cogswyr Syndicate]]</li><li>[[Factions/Eolian Scribes.md\\|Eolian Scribes]]</li></ul> | <ul><li>[[The Tribes/Gnomes.md\\|Gnomes]]</li></ul> |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM notes here, to be integrated later.

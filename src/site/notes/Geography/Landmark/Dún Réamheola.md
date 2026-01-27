@@ -23,9 +23,11 @@
 
 #### Description
 
-#### History
-###### Sub-heading
-> Insert information here about historical context
+#### Notable Events
+>  | Name | Year | Era | Factions | Tribes |
+> | ---- | ---- | --- | -------- | ------ |
+> 
+{ .block-language-dataview} 
 
 #### DM's Notes
 - Insert DM's Notes here, to be integrated later
