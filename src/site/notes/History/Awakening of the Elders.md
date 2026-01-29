@@ -5,7 +5,7 @@
 
 > [!Infobox]
 >
-> |  Awakening of the Elders |
+> |  Awakening of the Elders |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  1   |
