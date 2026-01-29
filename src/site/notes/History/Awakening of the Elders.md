@@ -4,6 +4,7 @@
 
 
 >[!Infobox]
+>
 > |  Awakening of the Elders|
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
