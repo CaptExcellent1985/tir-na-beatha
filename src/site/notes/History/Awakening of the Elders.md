@@ -14,20 +14,6 @@
 > | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 
-
-
-> [!Infobox]
-> 
-> |      Awakening of the Elders         |     |
-> | ----------- | --- |
-> | Era         |     |
-> | Year        |     |
-> | Factions    |     |
-> | Tribes      |     |
-> | Locations   |     |
-> | Key Figures |     |
-
-
 #### Quick Summary
 
 > Insert a quick blurb about the events here, one or two paragraphs at most that can be easily skimmed
