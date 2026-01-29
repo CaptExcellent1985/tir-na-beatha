@@ -14,6 +14,7 @@
 > | Tribes         |  [[The Tuatha\|Tuatha]]   |
 > | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
+> 
 
 #### Quick Summary
 
