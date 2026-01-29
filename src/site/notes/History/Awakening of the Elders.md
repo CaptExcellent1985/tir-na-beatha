@@ -5,7 +5,7 @@
 
 > [!Infobox]
 >
-> |  Awakening of the Elders|
+> |  Awakening of the Elders |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  1   |
@@ -16,14 +16,16 @@
 
 
 
-|             |     |
-| ----------- | --- |
-| Era         |     |
-| Year        |     |
-| Factions    |     |
-| Tribes      |     |
-| Locations   |     |
-| Key Figures |     |
+> [!Infobox]
+> 
+> |      Awakening of the Elders         |     |
+> | ----------- | --- |
+> | Era         |     |
+> | Year        |     |
+> | Factions    |     |
+> | Tribes      |     |
+> | Locations   |     |
+> | Key Figures |     |
 
 
 #### Quick Summary
