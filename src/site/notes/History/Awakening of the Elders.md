@@ -3,8 +3,7 @@
 ---
 
 
->[!Infobox]
-> Insert Image here, preceded by ! to embed
+> [!Infobox]
 >
 > |  Awakening of the Elders|
 > | -------------- | --- |
