@@ -13,7 +13,18 @@
 > | Tribes         |  [[The Tuatha\|Tuatha]]   |
 > | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
-> 
+
+
+
+|             |     |
+| ----------- | --- |
+| Era         |     |
+| Year        |     |
+| Factions    |     |
+| Tribes      |     |
+| Locations   |     |
+| Key Figures |     |
+
 
 #### Quick Summary
 
