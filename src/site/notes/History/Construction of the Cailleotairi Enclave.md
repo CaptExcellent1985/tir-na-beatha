@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/construction-of-the-cailleotairi-enclave/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Construction of the Cailleotairi Enclave |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
-> | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Year           |  675   |
+> | Factions       |   [[Factions/Cailleotairi\|Cailleotairi]]  |
+> | Tribes         |  N/A   |
+> | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

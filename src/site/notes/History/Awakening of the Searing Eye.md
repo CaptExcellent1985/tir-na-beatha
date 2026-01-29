@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/awakening-of-the-searing-eye/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Awakening of the Searing Eye |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  1520   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tribes/Lizard-folk\|Lizard-folk]]   |
+> | Locations      |   [[Geography/Landmark/Suil Dealrach\|Suil Dealrach]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

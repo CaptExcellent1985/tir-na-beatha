@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/scouring-of-the-southern-passes/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Scouring of the Southern Passes |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  1060   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tribes/Firbolg\|Firbolg]]   |
+> | Locations      |   [[Geography/Region/Elderoot Forest\|Elderoot Forest]], [[Geography/Region/Bella Da Taranis\|Bella Da Taranis]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

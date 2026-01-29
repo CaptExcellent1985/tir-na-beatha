@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/truce-of-trust-knot/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Truce of Trust Knot |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  550   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tribes/Tabaxi\|Tabaxi]]   |
+> | Locations      |   [[Geography/City/Trust Knot\|Trust Knot]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

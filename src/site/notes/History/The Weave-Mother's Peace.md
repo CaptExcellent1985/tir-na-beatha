@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/the-weave-mother-s-peace/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  The Weave-Mother's Peace |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
-> | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Year           |  1053   |
+> | Factions       |   [[Factions/Weave-mothers\|Weave-mothers]], [[Factions/Cailleotairi\|Cailleotairi]]  |
+> | Tribes         |  [[The Tuatha\|Tuatha]]   |
+> | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

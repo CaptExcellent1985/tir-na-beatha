@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/rogue-scholar-s-crisis/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Rogue Scholar's Crisis |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
-> | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Year           |  1575   |
+> | Factions       |   [[Factions/Cailleotairi\|Cailleotairi]], [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]], [[Factions/Eolian Scribes\|Eolian Scribes]]  |
+> | Tribes         |  [[The Tribes/Gnomes\|Gnomes]]   |
+> | Locations      |   [[Geography/City/Cogswyr\|Cogswyr]], [[Geography/Region/Mosslight Murmur\|Mosslight Murmur]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

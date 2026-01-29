@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/war-of-summer-s-favour/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  War of Summer's Favour |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  155   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tribes/Dwarves\|Dwarves]], [[The Tribes/Wood Elves\|Wood Elves]], [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Gnomes\|Gnomes]], [[The Tribes/Tabaxi\|Tabaxi]]   |
+> | Locations      |   N/A  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/starshore-rhapsody/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Starshore Rhapsody |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  650   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tribes/Eladrin\|Eladrin]]   |
+> | Locations      |   [[Geography/City/Starshore\|Starshore]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/first-lumina-harvest/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  First Lumina Harvest |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
-> | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Year           |  1000   |
+> | Factions       |   [[Factions/Cailleotairi\|Cailleotairi]], [[Factions/Weave-mothers\|Weave-mothers]]  |
+> | Tribes         |  [[The Tribes/Halflings\|Halflings]]   |
+> | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

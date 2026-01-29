@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/war-of-caillech-s-sorrow/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  War of Caillech's Sorrow |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  350 - 351   |
 > | Factions       |   N/A  |
 > | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Locations      |   N/A  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

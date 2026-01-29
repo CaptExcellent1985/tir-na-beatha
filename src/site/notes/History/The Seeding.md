@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/the-seeding/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  The Seeding |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  3 - 20   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tuatha\|Tuatha]]   |
+> | Locations      |   [[Tir Na Beatha\|Tir]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

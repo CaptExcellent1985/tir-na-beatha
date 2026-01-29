@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/the-sundering-plague/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  The Sundering Plague |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  100   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tuatha\|Tuatha]]   |
+> | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

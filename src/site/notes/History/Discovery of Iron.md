@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/discovery-of-iron/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Discovery of Iron |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  1500   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tribes/Lizard-folk\|Lizard-folk]], [[The Tribes/Dwarves\|Dwarves]]   |
+> | Locations      |   [[Geography/Region/Draigsreach Peninsula\|Draigsreach Peninsula]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/the-thread-breaker-s-war/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  The Thread-Breaker's War |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
-> | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Year           |  1050 - 1053   |
+> | Factions       |   [[Factions/Cailleotairi\|Cailleotairi]]  |
+> | Tribes         |  [[The Tuatha\|Tuatha]]   |
+> | Locations      |   [[Tir Na Beatha\|Tir]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

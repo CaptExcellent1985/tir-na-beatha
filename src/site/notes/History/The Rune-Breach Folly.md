@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/the-rune-breach-folly/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  The Rune-Breach Folly |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
+> | Year           |  1050   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Tribes         |  [[The Tribes/Gnomes\|Gnomes]]   |
+> | Locations      |   [[Geography/City/Cogswyr\|Cogswyr]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

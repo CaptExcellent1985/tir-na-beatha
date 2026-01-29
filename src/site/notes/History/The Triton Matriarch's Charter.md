@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/the-triton-matriarch-s-charter/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  The Triton Matriarch's Charter |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
-> | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Year           |  1011   |
+> | Factions       |   [[Factions/Cailleotairi\|Cailleotairi]]  |
+> | Tribes         |  [[The Tribes/Tritons\|Tritons]]   |
+> | Locations      |   N/A  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary

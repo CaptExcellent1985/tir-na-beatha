@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/history/the-rimeblast/"}
+{"dg-publish":true,"permalink":"/history/eolian-schism/"}
 ---
 
 
 > [!Infobox]
 >
-> |  The Rimeblast |    |
+> |  Eolian Schism |    |
 > | -------------- | --- |
 > | Era            |  ATT (After the Telling)   |
-> | Year           |  100   |
-> | Factions       |   N/A  |
-> | Tribes         |  [[The Tribes/Tieflings\|Tieflings]], [[The Tribes/Dwarves\|Dwarves]]   |
-> | Locations      |   [[Geography/City/Ceardaigh\|Ceardaigh]]  |
+> | Year           |  180   |
+> | Factions       |   [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]], [[Factions/Eolian Scribes\|Eolian Scribes]]  |
+> | Tribes         |  [[The Tribes/Gnomes\|Gnomes]]   |
+> | Locations      |   [[Geography/City/Eolas\|Eolas]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary
