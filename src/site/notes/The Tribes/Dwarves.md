@@ -8,24 +8,30 @@
 > 
 > |      Dwarves       |     |
 > | ----------- | --- |
-> | Homeland    |   [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]   |
+> | Homeland    |   N/A   |
 > | Capital | [[Geography/City/Ceardaigh\|Ceardaigh]] |
-> | Factions    |     |
-> | Disposition |     |
-> | Dieties | |
-> | Values      |     |
-> | Taboos      |     |
-> | Politics    |     |
-> | Economics   |     |
-> | Allies      |     |
-> | Rivals      |     |
-> | Leader      |     |
+> | Factions    |  N/A   |
+> | Disposition |  🟡 Neutral   |
+> | Values      |  N/A   |
+> | Taboos      |  N/A   |
+> | Politics    |  Facist-Leaning Clan based Monarchy   |
+> | Economics   |  Craftmanship, lumber   |
+> | Allies      |  [[The Tribes/Gnomes\|Gnomes]], [[The Tribes/Lizard-folk\|Lizard-folk]]   |
+> | Rivals      |  [[The Tribes/Wood Elves\|Wood Elves]]   |
+> | Leader      |   N/A  |
 
 #### Summary
 > Insert quick blurb here, no more than 1-2 paragraphs
 
 #### Culture
 > Insert notes on culture here
+
+###### Primary Dieties
+>  | Name                                        | Domains                                  | Alignment |
+> | ------------------------------------------- | ---------------------------------------- | --------- |
+> | [[Religion/Pantheon/Govannon\|Govannon]] | <ul><li>Crafting</li><li>Order</li></ul> | Neutral   |
+> 
+{ .block-language-dataview}
 
 #### Economics 
 > Insert Economical Notes Here
