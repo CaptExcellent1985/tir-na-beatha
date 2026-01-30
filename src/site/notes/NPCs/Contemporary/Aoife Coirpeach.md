@@ -4,39 +4,39 @@
 
 > [!infobox]
 > # Aoife Coirpeach  
-> # ()
+> # (EE-fa KWER-pakh)
 >![Aoife Coirpeach.png](/img/user/Assets/Characters/Aoife%20Coirpeach.png)
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  Slender build, slightly taller than average, shoulder-length ash-blonde hair and grey eyes   |
+> | Year of Birth| 1561 |
+> | Year of Death | N/A |
+> | Age        |   20  |
+> | Pronouns   | She/Her |
+> | Features   |   Non-descript, so unremarkable that the second you look away from her she fades from your memory  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🟢 Friendly |
+>| Alignment | Lawful Evil |
+>|  Occupation |   Assassin / Rogue, some magic ability  |
+> | Ideal       |  All actions can serve the greater good   |
+> | Bond        |  The Weave-Mothers   |
+> | Flaw        | My devotion to the Weave-Mothers is absolute, and I will commit any act to achieve their goals    |
+> | Motivation  | The Weave-Mothers saved my life and I will repay them no matter the personal cost    |
+> | Mannerisms  |  When I think no one is watching, I will visually inspect the quality of knots and textiles, looking for signs of fraying.   |
+> | Personality | Fluid  and adaptable - flirtatiously innocent to ruthlessly taking a life at the drop of a pin.
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Wood Elves\|Wood Elves]]   |
+> | Location    |  [[Geography/Locale/Cailleotairi Enclave\|Cailleotairi Enclave]] |
+> | Faction     |  [[Factions/Weave-mothers\|Weave-mothers]]|
+> | Faction Rank | Unraveller
+> | Relations   |    [[NPCs/Contemporary/Renna Dubhán\|Renna Dubhán]], [[NPCs/Contemporary/Matron Krik'tha\|Matron Krik'tha]]  |
 
 #### Physical Appearance
 
