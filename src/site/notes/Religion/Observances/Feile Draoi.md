@@ -10,6 +10,7 @@
 > | Type     |  Holy Days   |
 > | Sub-Type |   Festival  |
 > | Pronunciation | Fay-lee Dree |
+> | Observed On | 1 Midsummer Moon |
 > | Dieties  |   N/A  |
 > | Domains  |  N/A   |
 > | Tribes   |  [[The Tuatha\|Tuatha]]   |
