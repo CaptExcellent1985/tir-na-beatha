@@ -4,7 +4,7 @@
 
 > [!infobox]
 > # Renna Dubhán  
-> # (N/A)
+> # (REN-nah Doo-van)
 > ![Renna Dubhan.png](/img/user/Assets/Renna%20Dubhan.png)
 > 
 > | Attributes |     |
