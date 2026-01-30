@@ -16,7 +16,7 @@
 
 #### Summary
 > The Telling is the Creation myth of both the [[Tir Na Beatha\|Tir]] and the [[The Tuatha\|Tuatha]]. It details how the various Gods and Goddesses sat and spoke the world into being in the aftermath of a great battle, embodying their hopes and dreams for a better world.
-> Every year, on the first day of Midsummer Moon, [[Tuatha\|Tuatha]] from across the land gather in the city of [[Geography/City/Aite-Briethe\|Aite-Briethe]] to celebrate this event with the festival of Feile Draoi.
+> Every year, on the first day of [[Cultural Matters/Sociology/Time-keeping\|Midsummer Moon]], [[Tuatha\|Tuatha]] from across the land gather in the city of [[Geography/City/Aite-Briethe\|Aite-Briethe]] to celebrate this event with the festival of [[Religion/Observances/Feile Draoi\|Feile Draoi]].
 
 #### Text
 > *In the dusk aftermath of the great battle with the ancient Fomorians, the gods, wearied from their divine strife, gathered upon the verdant hills. The air crackled with the remnants of celestial energies, and the horizon glowed with the fading embers of celestial confrontation.*
@@ -43,5 +43,5 @@
 > 
 > *And so, beneath the celestial canopy, the gods forged a new reality, shaped by their desires, balanced by their domains. The night air resonated with the echoes of their voices, weaving a tapestry of life, love, wisdom, and perpetual change.*
 > 
-> *Each year, we [[The Tuatha\|Tuatha]] gather and celebrate Feile Draoi, the creation of our beloved [[Tir Na Beatha\|Tir]]. We pass this tale down through generations, a testament to the gods' reflections and the birth of a world where mortal and divine threads intertwined.*
+> *Each year, we [[The Tuatha\|Tuatha]] gather and celebrate [[Religion/Observances/Feile Draoi\|Feile Draoi]], the creation of our beloved [[Tir Na Beatha\|Tir]]. We pass this tale down through generations, a testament to the gods' reflections and the birth of a world where mortal and divine threads intertwined.*
 
