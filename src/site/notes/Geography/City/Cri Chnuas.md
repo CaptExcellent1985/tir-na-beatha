@@ -31,8 +31,9 @@
 { .block-language-dataview} 
 
 #### Notable Events
->  | Name | Year | Era | Factions | Tribes |
-> | ---- | ---- | --- | -------- | ------ |
+>  | Name                                                | Year | Era                     | Factions | Tribes                                                |
+> | --------------------------------------------------- | ---- | ----------------------- | -------- | ----------------------------------------------------- |
+> | [[History/Dig of Cri Chnuas\|Dig of Cri Chnuas]] | 1100 | ATT (After the Telling) | N/A      | <ul><li>[[The Tribes/Kobolds.md\\|Kobolds]]</li></ul> |
 > 
 { .block-language-dataview} 
 
