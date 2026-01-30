@@ -24,9 +24,8 @@
 > Fill out information here
 
 #### Associated NPCs
->  | Name                                                      | Status | Faction                                      | Rank       | Tribe                                    | Alignment   | Disposition |
-> | --------------------------------------------------------- | ------ | -------------------------------------------- | ---------- | ---------------------------------------- | ----------- | ----------- |
-> | [[NPCs/Contemporary/Aoife Coirpeach\|Aoife Coirpeach]] | Alive  | [[Factions/Weave-mothers\|Weave-mothers]] | Unraveller | [[The Tribes/Wood Elves\|Wood Elves]] | Lawful Evil | 🟢 Friendly |
+>  | Name | Status | Faction | Rank | Tribe | Alignment | Disposition |
+> | ---- | ------ | ------- | ---- | ----- | --------- | ----------- |
 > 
 { .block-language-dataview}
 

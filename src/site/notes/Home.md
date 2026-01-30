@@ -6,7 +6,6 @@
 >  | Name                                                                                | Type |
 > | ----------------------------------------------------------------------------------- | ---- |
 > | [[NPCs/Contemporary/Aoife Coirpeach\|Aoife Coirpeach]]                           | N/A  |
-> | [[NPCs/Contemporary/Buggy Butt\|Buggy Butt]]                                     | N/A  |
 > | [[NPCs/Contemporary/Cormac McCarthy\|Cormac McCarthy]]                           | N/A  |
 > | [[NPCs/Historical/Eibhear Glasan\|Eibhear Glasan]]                               | N/A  |
 > | [[NPCs/Contemporary/Elara of the Whispering Moss\|Elara of the Whispering Moss]] | N/A  |

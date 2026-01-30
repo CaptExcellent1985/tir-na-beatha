@@ -33,7 +33,7 @@
 > | Connections |                            |
 > | ----------- | -------------------------- |
 > | Tribe       |  [[The Tribes/Wood Elves\|Wood Elves]]   |
-> | Location    |  [[Geography/Locale/Cailleotairi Enclave\|Cailleotairi Enclave]] |
+> | Location    |  [[Geography/City/Aite-Briethe\|Aite-Briethe]] |
 > | Faction     |  [[Factions/Weave-mothers\|Weave-mothers]]|
 > | Faction Rank | Unraveller
 > | Relations   |    [[NPCs/Contemporary/Renna Dubhán\|Renna Dubhán]], [[NPCs/Contemporary/Matron Krik'tha\|Matron Krik'tha]]  |

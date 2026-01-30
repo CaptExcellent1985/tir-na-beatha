@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Matron Krik'tha
+> # Matron Krik'tha  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  Diminuitive and hunched, with deep wrinkles and skin like dried leather   |
+> | Year of Birth| 1514 |
+> | Year of Death | N/A |
+> | Age        |   67  |
+> | Pronouns   | She/Her |
+> | Features   |   Scarred with a missing left eye.  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🟡 Neutral |
+>| Alignment | Neutral |
+>|  Occupation |   N/A  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  Walking stick made of iron that she taps impatiently on surfaces when she feels like she's being bullshitted.   |
+> | Personality | Blunt and cynical, with a ruthless pragmatism
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Goblins\|Goblins]]   |
+> | Location    |  [[Geography/City/Aite-Briethe\|Aite-Briethe]] |
+> | Faction     |  [[Factions/Weave-mothers\|Weave-mothers]]|
+> | Faction Rank | The Imago
+> | Relations   |    [[NPCs/Contemporary/Oona Moss-heart\|Oona Moss-heart]], [[NPCs/Contemporary/Valeraine Valadh\|Valeraine Valadh]]  |
 
 #### Physical Appearance
 

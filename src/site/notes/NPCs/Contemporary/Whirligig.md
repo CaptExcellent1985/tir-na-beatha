@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Whirligig
+> # Whirligig  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| N/A |
+> | Year of Death | N/A |
+> | Age        |   N/A  |
+> | Pronouns   | N/A |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  N/A |
+>| Alignment | Chaotic Good |
+>|  Occupation |   N/A  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Gnomes\|Gnomes]]   |
+> | Location    |  [[Geography/Landmark/Dún Réamheola\|Dún Réamheola]] |
+> | Faction     |  [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]]|
+> | Faction Rank | Chief Artificer , former
+> | Relations   |    N/A  |
 
 #### Physical Appearance
 

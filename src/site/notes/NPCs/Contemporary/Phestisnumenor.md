@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Phestisnumenor
+> # Phestisnumenor  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  A slumbering and massive faerie dragon   |
+> | Year of Birth| N/A |
+> | Year of Death | N/A |
+> | Age        |   Unknown  |
+> | Pronouns   | He/Him/She/Her/They?Them |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  N/A |
+>| Alignment | Chaotic Good |
+>|  Occupation |   N/A  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Feyfolk\|Feyfolk]]   |
+> | Location    |  [[Geography/City/Cri Chnuas\|Cri Chnuas]] |
+> | Faction     |  N/A|
+> | Faction Rank | N/A
+> | Relations   |    N/A  |
 
 #### Physical Appearance
 

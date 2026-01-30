@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Larkfoot
+> # Larkfoot  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| 972 |
+> | Year of Death | 1067 |
+> | Age        |   95  |
+> | Pronouns   | N/A |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  N/A |
+>| Alignment | Neutral |
+>|  Occupation |   N/A  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Halflings\|Halflings]]   |
+> | Location    |  N/A |
+> | Faction     |  [[Factions/Weave-mothers\|Weave-mothers]]|
+> | Faction Rank | Founder
+> | Relations   |    N/A  |
 
 #### Physical Appearance
 

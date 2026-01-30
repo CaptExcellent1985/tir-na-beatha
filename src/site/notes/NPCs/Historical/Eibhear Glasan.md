@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Eibhear Glasan
+> # Eibhear Glasan  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| 132 |
+> | Year of Death | 192 |
+> | Age        |   60  |
+> | Pronouns   | He/Him |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🟡 Neutral |
+>| Alignment | Neutral |
+>|  Occupation |   N/A  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Eladrin\|Eladrin]]   |
+> | Location    |  [[Geography/Region/Na Tirean Marbh\|Na Tirean Marbh]] |
+> | Faction     |  [[Factions/Cailleotairi\|Cailleotairi]]|
+> | Faction Rank | Founder
+> | Relations   |    [[NPCs/Contemporary/Malachite\|Malachite]], [[NPCs/Historical/Kallista Cinderwind\|Kallista Cinderwind]], [[NPCs/Historical/Thorgunn Oak-knuckle\|Thorgunn Oak-knuckle]], [[NPCs/Historical/Torran Willowspeak\|Torran Willowspeak]]  |
 
 #### Physical Appearance
 

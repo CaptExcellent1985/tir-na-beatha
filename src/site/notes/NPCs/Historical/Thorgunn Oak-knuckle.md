@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Thorgunn Oak-knuckle
+> # Thorgunn Oak-knuckle  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| 128 |
+> | Year of Death | 184 |
+> | Age        |   56  |
+> | Pronouns   | She/Her |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🟡 Neutral |
+>| Alignment | Neutral |
+>|  Occupation |   Fighter  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Dwarves\|Dwarves]]   |
+> | Location    |  N/A |
+> | Faction     |  [[Factions/Cailleotairi\|Cailleotairi]]|
+> | Faction Rank | Founder
+> | Relations   |    [[NPCs/Historical/Eibhear Glasan\|Eibhear Glasan]], [[NPCs/Historical/Kallista Cinderwind\|Kallista Cinderwind]], [[NPCs/Historical/Torran Willowspeak\|Torran Willowspeak]]  |
 
 #### Physical Appearance
 

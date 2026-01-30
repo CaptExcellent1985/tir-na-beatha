@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Saiorse the Unblinking
+> # Saiorse the Unblinking  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| N/A |
+> | Year of Death | 1575 |
+> | Age        |   N/A  |
+> | Pronouns   | N/A |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  N/A |
+>| Alignment | N/A |
+>|  Occupation |   Warlock  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Tieflings\|Tieflings]]   |
+> | Location    |  [[Geography/City/Cogswyr\|Cogswyr]] |
+> | Faction     |  [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]]|
+> | Faction Rank | No Longer Active
+> | Relations   |    [[NPCs/Contemporary/Cormac McCarthy\|Cormac McCarthy]], [[NPCs/Contemporary/Elara of the Whispering Moss\|Elara of the Whispering Moss]], [[NPCs/Contemporary/Kaelen Quick-Step\|Kaelen Quick-Step]], [[NPCs/Contemporary/Voshtai\|Voshtai]]  |
 
 #### Physical Appearance
 

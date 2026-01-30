@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Cormac McCarthy
+> # Cormac McCarthy  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| N/A |
+> | Year of Death | 1575 |
+> | Age        |   N/A  |
+> | Pronouns   | N/A |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  N/A |
+>| Alignment | N/A |
+>|  Occupation |   Barbarian  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Goliath\|Goliath]]   |
+> | Location    |  N/A |
+> | Faction     |  [[Factions/Cailleotairi\|Cailleotairi]]|
+> | Faction Rank | [[Factions/Cailleotairi\|Comhracoiri]]
+> | Relations   |    [[NPCs/Contemporary/Voshtai\|Voshtai]]  |
 
 #### Physical Appearance
 

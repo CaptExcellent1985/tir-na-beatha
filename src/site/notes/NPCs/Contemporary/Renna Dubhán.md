@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Renna Dubhán
+> # Renna Dubhán  
+> # (N/A)
 > ![Renna Dubhan.png](/img/user/Assets/Renna%20Dubhan.png)
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  Thin, pale with wide and bloodshot eyes. Wears the beat up robes of a Weave-Mother Daughter, with a decaying sash of moonpetal blooms.   |
+> | Year of Birth| 1560 |
+> | Year of Death | N/A |
+> | Age        |   21  |
+> | Pronouns   | She/Her |
+> | Features   |   Hands stained iridescent blue from handling raw and unstable lumina silk without protection  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🟡 Neutral |
+>| Alignment | Chaotic Good |
+>|  Occupation |   Transmuter  |
+> | Ideal       |  Being recognized does not detract from ones talents   |
+> | Bond        |  I hold the Lumina Moth above all else   |
+> | Flaw        | Obsession: Loves the moths to the point of madness; "The weave-mothers only care about the currency, I care about the creature"    |
+> | Motivation  | I care only for the Lumina Moth, but I can't do that without a safe place or money to do it    |
+> | Mannerisms  |  Speaks breathless, fast, and whispering. Speaks to the moths as if they were her children.   |
+> | Personality | Delusional: she will not admit that her knots are bad and that only she can truly understand the moths
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Wood Elves\|Wood Elves]]   |
+> | Location    |  [[Geography/City/Aite-Briethe\|Aite-Briethe]] |
+> | Faction     |  [[Factions/Weave-mothers\|Weave-mothers]]|
+> | Faction Rank | Exiled
+> | Relations   |    [[NPCs/Contemporary/Aoife Coirpeach\|Aoife Coirpeach]]  |
 
 #### Physical Appearance
 

@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Voshtai
+> # Voshtai  
+> # (N/A)
 > ![Voshtai.jpg](/img/user/Assets/Characters/Voshtai.jpg)
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  Green scales, dappled yellow-tail fin, medium build   |
+> | Year of Birth| 1528 |
+> | Year of Death | N/A |
+> | Age        |   53  |
+> | Pronouns   | He/Him |
+> | Features   |   Armor made from bones, fur, and hides. A spear made of bones.  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality` |
+>| Disposition |  🟢 Friendly |
+>| Alignment | Lawful Good |
+>|  Occupation |   Trainer for new [[Factions/Cailleotairi\|Cailleotairi]]  |
+> | Ideal       |  The Sanctity of the Oath   |
+> | Bond        |  The Bones of his Mentors   |
+> | Flaw        | Burden of the Bridge    |
+> | Motivation  | Redemption through Instruction    |
+> | Mannerisms  |  Unblinking, Maintenance of his Gear, Checks his surroundings   |
+> | Personality | Stoic, Observant, Perfectionism
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Lizard-folk\|Lizard-folk]]   |
+> | Location    |  [[Geography/Locale/Siorlann\|Siorlann]] |
+> | Faction     |  [[Factions/Cailleotairi\|Cailleotairi]]|
+> | Faction Rank | [[Factions/Cailleotairi\|Saois]]
+> | Relations   |    [[NPCs/Contemporary/Cormac McCarthy\|Cormac McCarthy]], [[NPCs/Contemporary/Elara of the Whispering Moss\|Elara of the Whispering Moss]], [[NPCs/Contemporary/Kaelen Quick-Step\|Kaelen Quick-Step]], [[NPCs/Contemporary/Saiorse the Unblinking\|Saiorse the Unblinking]], [[NPCs/Contemporary/Vethos\|Vethos]]  |
 
 #### Physical Appearance
 

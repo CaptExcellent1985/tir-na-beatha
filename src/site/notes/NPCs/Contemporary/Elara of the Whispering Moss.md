@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Elara of the Whispering Moss
+> # Elara of the Whispering Moss  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| N/A |
+> | Year of Death | N/A |
+> | Age        |   N/A  |
+> | Pronouns   | She/Her |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🟢 Friendly |
+>| Alignment | Neutral |
+>|  Occupation |   Druid (Circle of Spores)  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  Delights in fungi, moss on garments and armour   |
+> | Personality | Gentle, Maternal
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Firbolg\|Firbolg]]   |
+> | Location    |  [[Geography/Locale/Siorlann\|Siorlann]] |
+> | Faction     |  [[Factions/Cailleotairi\|Cailleotairi]]|
+> | Faction Rank | [[Factions/Cailleotairi\|Teaghlaigh Draoichta]]
+> | Relations   |    [[NPCs/Contemporary/Voshtai\|Voshtai]], [[NPCs/Contemporary/Cormac McCarthy\|Cormac McCarthy]]  |
 
 #### Physical Appearance
 

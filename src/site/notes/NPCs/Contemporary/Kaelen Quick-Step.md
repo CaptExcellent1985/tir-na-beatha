@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Kaelen Quick-Step
+> # Kaelen Quick-Step  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  N/A   |
+> | Year of Birth| N/A |
+> | Year of Death | N/A |
+> | Age        |   N/A  |
+> | Pronouns   | He/Him |
+> | Features   |   N/A  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🔴 Hostile |
+>| Alignment | Chaotic Evil |
+>|  Occupation |   Scout / Rogue  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  N/A   |
+> | Personality | N/A
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Tabaxi\|Tabaxi]]   |
+> | Location    |  N/A |
+> | Faction     |  [[Factions/Cailleotairi\|Cailleotairi]]|
+> | Faction Rank | Excommunicated
+> | Relations   |    [[NPCs/Contemporary/Cormac McCarthy\|Cormac McCarthy]], [[NPCs/Contemporary/Elara of the Whispering Moss\|Elara of the Whispering Moss]], [[NPCs/Contemporary/Voshtai\|Voshtai]]  |
 
 #### Physical Appearance
 

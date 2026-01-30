@@ -3,39 +3,40 @@
 ---
 
 > [!infobox]
-> # Valeraine Valadh
+> # Valeraine Valadh  
+> # (N/A)
 > Insert Image Here by typing ! then Linking
 > 
 > | Attributes |     |
 > | ---------- | --- |
-> | Appearance |     |
-> | Year of Birth| ` $= dv.current().NPCYOB` |
-> | Year of Death | ` $= dv.current().NPCYOD` |
-> | Age        |     |
-> | Pronouns   |  |
-> | Features   |     |
+> | Appearance |  Slender and tall, skin like moonlight on water   |
+> | Year of Birth| 1499 |
+> | Year of Death | N/A |
+> | Age        |   82  |
+> | Pronouns   | N/A |
+> | Features   |   Blind - eyes clouded by cataracts, robes of lumina silk  |
 > 
 > 
 > | Roleplaying |     |
 > | ----------- | --- |
->| Disposition |   |
->| Alignment |  |
->|  Occupation |     |
-> | Ideal       |     |
-> | Bond        |     |
-> | Flaw        |     |
-> | Motivation  |     |
-> | Mannerisms  |     |
-> | Personality | ` $= dv.current().NPCPersonality`
+>| Disposition |  🟢 Friendly |
+>| Alignment | Neutral |
+>|  Occupation |   N/A  |
+> | Ideal       |  N/A   |
+> | Bond        |  N/A   |
+> | Flaw        | N/A    |
+> | Motivation  | N/A    |
+> | Mannerisms  |  Fingers are constantly weaving invisible threads, as if adjusting the vibes of the conversation in real-time   |
+> | Personality | Serene and polite, able to "see" the emotional threads in any room or situation
 > 
 > 
 > | Connections |                            |
 > | ----------- | -------------------------- |
-> | Tribe       |     |
-> | Location    |   |
-> | Faction     |  |
-> | Faction Rank | ` $= dv.current().FactionRank`
-> | Relations   |      |
+> | Tribe       |  [[The Tribes/Twilight Elves\|Twilight Elves]]   |
+> | Location    |  [[Geography/City/Aite-Briethe\|Aite-Briethe]] |
+> | Faction     |  [[Factions/Weave-mothers\|Weave-mothers]]|
+> | Faction Rank | The Filament
+> | Relations   |    [[NPCs/Contemporary/Oona Moss-heart\|Oona Moss-heart]], [[NPCs/Contemporary/Matron Krik'tha\|Matron Krik'tha]]  |
 
 #### Physical Appearance
 

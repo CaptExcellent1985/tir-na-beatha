@@ -90,7 +90,6 @@
 #### Prominent Members
 >  | Name                                                                                | Status  | Rank                                               | Tribe                                      | Alignment    | Disposition |
 > | ----------------------------------------------------------------------------------- | ------- | -------------------------------------------------- | ------------------------------------------ | ------------ | ----------- |
-> | [[NPCs/Contemporary/Buggy Butt\|Buggy Butt]]                                     | N/A     | Bread Baker                                        | [[The Tribes/Halflings\|Halflings]]     | N/A          | N/A         |
 > | [[NPCs/Contemporary/Elara of the Whispering Moss\|Elara of the Whispering Moss]] | Alive   | [[Factions/Cailleotairi\|Teaghlaigh Draoichta]] | [[The Tribes/Firbolg\|Firbolg]]         | Neutral      | 🟢 Friendly |
 > | [[NPCs/Contemporary/Voshtai\|Voshtai]]                                           | Alive   | [[Factions/Cailleotairi\|Saois]]                | [[The Tribes/Lizard-folk\|Lizard-folk]] | Lawful Good  | 🟢 Friendly |
 > | [[NPCs/Contemporary/Cormac McCarthy\|Cormac McCarthy]]                           | Dead    | [[Factions/Cailleotairi\|Comhracoiri]]          | [[The Tribes/Goliath\|Goliath]]         | N/A          | N/A         |
