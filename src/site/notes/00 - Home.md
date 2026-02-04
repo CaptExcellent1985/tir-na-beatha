@@ -3,6 +3,6 @@
 ---
 
 
-#### Tir Na Beatha
-> Tir Na Beatha is a region of the world covered by a massive forest of indeterminate age. Inhabited by dangerous animals and Fey spirits, with ever-shifting paths that make navigating the land a difficult process, the various tribes of the Tuatha live in a state of superstition. Sharing a common ancestry, with a cultural capital in the city of Aite-Briethe, they look to the Cailleotairi to protect them from threats both supernatural and political. 
+> **Tir Na Beatha** is a realm defined by the eternal struggle to impose structure upon the primal, shifting chaos known as **[[Cultural Matters/Metaphysics/The Anord\|The Anord]]**. The diverse **[[The Tuatha\|Tuatha]]** tribes have carved out a civilization where survival depends on maintaining a fragile pact with the land's fickle [[The Tribes/Feyfolk\|Fey]] spirits and the stabilized seasons. Peace is rigidly enforced by the **[[Factions/Cailleotairi\|Cailleotairi]]**, a stoic order of elite, neutral arbiters founded by exiles who rejected tribal loyalty for the greater good. In this world, ancient wood-craft rivals stone, emotions can curdle gold, and the line between civilization and the encroaching wild is held by those who have sworn to sever their own roots to protect the realm.
+
 
