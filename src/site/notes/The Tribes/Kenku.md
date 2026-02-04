@@ -27,9 +27,10 @@
 > Insert notes on culture here
 
 ###### Primary Dieties
->  | Name                                        | Domains                                                            | Alignment   |
-> | ------------------------------------------- | ------------------------------------------------------------------ | ----------- |
-> | [[Religion/Pantheon/Morrigan\|Morrigan]] | <ul><li>Fate</li><li>Grave</li><li>Knowledge</li><li>War</li></ul> | Lawful Evil |
+>  | Name                                            | Domains                                                                  | Alignment   |
+> | ----------------------------------------------- | ------------------------------------------------------------------------ | ----------- |
+> | [[Religion/Pantheon/Blodeuwedd\|Blodeuwedd]] | <ul><li>Flowers</li><li>Knowledge</li><li>Peace</li><li>Wisdom</li></ul> | Neutral     |
+> | [[Religion/Pantheon/Morrigan\|Morrigan]]     | <ul><li>Fate</li><li>Grave</li><li>Knowledge</li><li>War</li></ul>       | Lawful Evil |
 > 
 { .block-language-dataview}
 

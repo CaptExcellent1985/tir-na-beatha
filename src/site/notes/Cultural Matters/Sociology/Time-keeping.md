@@ -9,24 +9,24 @@
 > |        Time-keeping             |     |
 > | ------------------- | --- |
 > | Type                |   Customs  |
-> | Associated Tribes   |   [[The Tuatha\|Tuatha]]  |
+> | Associated Tribes   |   [[The Tribes\|Tuatha]]  |
 > | Associated Factions |  N/A   |
 > | Associated Dieties  |   N/A  |
 > | Also Known As       |   N/A  |
 
 
 #### Summary
-> The [[The Tuatha\|Tuatha]] of the [[Tir Na Beatha\|Tir]] have several terms they use to refer to the passage of time. They have several different era's when speaking of grand-scale histories, and the year is divided into 12 months. 
+> The [[The Tribes\|Tuatha]] of the [[Tir Na Beatha Leaflet\|Tir]] have several terms they use to refer to the passage of time. They have several different era's when speaking of grand-scale histories, and the year is divided into 12 months. 
 > Each month consists of 4 weeks, and each weeks consists of 7 days. 
 > A year is thus equal to 336 days.
 
 #### Detailed Summary
 ###### Eras
-> There are two era's that the [[The Tuatha\|Tuatha]] may refer to:
+> There are two era's that the [[The Tribes\|Tuatha]] may refer to:
 > - Before [[Religion/Myths & Legends/The Telling\|The Telling]]
 > - After [[Religion/Myths & Legends/The Telling\|The Telling]]
 > 
->It is rare to hear common [[The Tuatha\|Tuatha]] refer to events after [[Religion/Myths & Legends/The Telling\|The Telling]] as that is considered pre-history and subject to much superstition. 
+>It is rare to hear common [[The Tribes\|Tuatha]] refer to events after [[Religion/Myths & Legends/The Telling\|The Telling]] as that is considered pre-history and subject to much superstition. 
 
 ###### The Months
 > | Name           | Tongue of the Ancients | Meaning |

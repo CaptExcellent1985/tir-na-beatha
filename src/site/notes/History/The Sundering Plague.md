@@ -10,7 +10,7 @@
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  100   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tuatha\|Tuatha]]   |
+> | Tribes         |  [[The Tribes\|Tuatha]]   |
 > | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 

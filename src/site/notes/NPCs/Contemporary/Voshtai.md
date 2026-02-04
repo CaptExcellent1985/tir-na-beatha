@@ -45,7 +45,7 @@
 #### Personality
 
 ###### Sanctity of the Oath
-> Above all else, Voshtai views his duty to the [[Factions/Cailleotairi\|Cailleotairi]] and to the [[The Tuatha\|Tuatha]] to be paramount. Honour means everything to Voshtai, as well as the keeping of one's word. The [[Cultural Matters/Sociology/The Verdant Oath\|Verdant Oath]] is more sacred to Voshtai than any decree of the God's. 
+> Above all else, Voshtai views his duty to the [[Factions/Cailleotairi\|Cailleotairi]] and to the [[The Tribes\|Tuatha]] to be paramount. Honour means everything to Voshtai, as well as the keeping of one's word. The [[Cultural Matters/Sociology/The Verdant Oath\|Verdant Oath]] is more sacred to Voshtai than any decree of the God's. 
 
  
 ###### The Bones of His Mentors

@@ -43,7 +43,7 @@
 #### Notable Events
 >  | Name                                                                    | Year | Era                     | Factions                                                      | Tribes                                       |
 > | ----------------------------------------------------------------------- | ---- | ----------------------- | ------------------------------------------------------------- | -------------------------------------------- |
-> | [[History/Binding of the First Scions\|Binding of the First Scions]] | 275  | ATT (After the Telling) | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul> | <ul><li>[[The Tuatha.md\\|Tuatha]]</li></ul> |
+> | [[History/Binding of the First Scions\|Binding of the First Scions]] | 275  | ATT (After the Telling) | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul> | <ul><li>[[The Tribes.md\\|Tuatha]]</li></ul> |
 > 
 { .block-language-dataview} 
 

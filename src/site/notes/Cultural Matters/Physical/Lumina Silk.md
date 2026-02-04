@@ -15,7 +15,7 @@
 > | Also Known As       |   N/A  |
 
 #### Summary
-> Produced by the [[Cultural Matters/Physical/Lumina Moth\|Lumina Moth]], Lumina Silk is used by the [[Factions/Weave-mothers\|Weave-mothers]] to create the [[Cultural Matters/Physical/Currency & Trade\|knots]] that serve as the primary currency in the [[Tir Na Beatha\|Tir]]. It's unique properties lends itself well to this and it is a strictly regulated commodity. 
+> Produced by the [[Cultural Matters/Physical/Lumina Moth\|Lumina Moth]], Lumina Silk is used by the [[Factions/Weave-mothers\|Weave-mothers]] to create the [[Cultural Matters/Physical/Currency & Trade\|knots]] that serve as the primary currency in the [[Tir Na Beatha Leaflet\|Tir]]. It's unique properties lends itself well to this and it is a strictly regulated commodity. 
 
 #### Detailed Summary
 ###### Unique Properties

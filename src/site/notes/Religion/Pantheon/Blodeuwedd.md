@@ -11,7 +11,7 @@
 > | Domains           | Flowers, Knowledge, Peace, Wisdom |
 > | Alignment         | Neutral |
 > | Also Known As     | N/A |
-> | Tribes            | N/A |
+> | Tribes            | [[The Tribes/Wood Elves\|Wood Elves]], [[The Tribes/Kenku\|Kenku]] |
 > | Symbols           | N/A |
 > | Offerings         | N/A |
 > | Boon              | N/A |

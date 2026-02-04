@@ -10,8 +10,8 @@
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  3 - 20   |
 > | Factions       |   N/A  |
-> | Tribes         |  [[The Tuatha\|Tuatha]]   |
-> | Locations      |   [[Tir Na Beatha\|Tir]]  |
+> | Tribes         |  [[The Tribes\|Tuatha]]   |
+> | Locations      |   [[Tir Na Beatha Leaflet\|Tir]]  |
 > | Key Figures |   N/A  |
 
 #### Quick Summary
