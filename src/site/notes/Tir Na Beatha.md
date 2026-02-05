@@ -5,30 +5,30 @@
 #### Regions
 >  | Region                                                               | Type           |
 > | -------------------------------------------------------------------- | -------------- |
-> | [[Geography/Region/Bella Da Taranis\|Bella Da Taranis]]           | Mountain       |
 > | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]         | Forest         |
-> | [[Geography/Region/Ceilt Ghleann Forest\|Ceilt Ghleann Forest]]   | Forest         |
-> | [[Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]]   | Mountain       |
+> | [[Geography/Region/Bella Da Taranis\|Bella Da Taranis]]           | Mountain       |
 > | [[Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]]           | Lake           |
 > | [[Geography/Region/Cuan Realta\|Cuan Realta]]                     | Lake           |
+> | [[Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]]   | Mountain       |
 > | [[Geography/Region/Dallan Valley\|Dallan Valley]]                 | Valley         |
 > | [[Geography/Region/Dealt-Tradala\|Dealt-Tradala]]                 | Marsh          |
-> | [[Geography/Region/Doire Na Gealaich\|Doire Na Gealaich]]         | Forest         |
 > | [[Geography/Region/Draigsreach Peninsula\|Draigsreach Peninsula]] | Marsh          |
-> | [[Geography/Region/Elderoot Forest\|Elderoot Forest]]             | Forest         |
 > | [[Geography/Region/Fossmore Forest\|Fossmore Forest]]             | Forest         |
 > | [[Geography/Region/Granna Abhaine\|Granna Abhaine]]               | River          |
+> | [[Geography/Region/Doire Na Gealaich\|Doire Na Gealaich]]         | Forest         |
 > | [[Geography/Region/Merry Mound Hills\|Merry Mound Hills]]         | Hills          |
 > | [[Geography/Region/Mosslight Murmur\|Mosslight Murmur]]           | Forest         |
 > | [[Geography/Region/Musewood\|Musewood]]                           | Forest         |
 > | [[Geography/Region/Na Carraige Mountains\|Na Carraige Mountains]] | Mountain       |
-> | [[Geography/Region/Na Tirean Marbh\|Na Tirean Marbh]]             | Marsh          |
 > | [[Geography/Region/The Feastlands\|The Feastlands]]               | Field / Plains |
 > | [[Geography/Region/The Thatch\|The Thatch]]                       | Forest         |
+> | [[Geography/Region/Na Tirean Marbh\|Na Tirean Marbh]]             | Marsh          |
 > | [[Geography/Region/Tiriosann River\|Tiriosann River]]             | River          |
-> | [[Geography/Region/Wargbarrow Woods\|Wargbarrow Woods]]           | Forest         |
+> | [[Geography/Region/Ceilt Ghleann Forest\|Ceilt Ghleann Forest]]   | Forest         |
 > | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]]             | Valley         |
 > | [[Geography/Region/Whisperwood\|Whisperwood]]                     | Forest         |
+> | [[Geography/Region/Wargbarrow Woods\|Wargbarrow Woods]]           | Forest         |
+> | [[Geography/Region/Elderoot Forest\|Elderoot Forest]]             | Forest         |
 > 
 { .block-language-dataview}
 
@@ -50,8 +50,8 @@
 > | [[Geography/City/Garnhold\|Garnhold]]                 | N/A              | <ul><li>[[The Tribes/Tieflings.md\\|Tieflings]]</li></ul>           | N/A                                                                                                                                                                                           | N/A        |
 > | [[Geography/City/Luckbarrow\|Luckbarrow]]             | N/A              | <ul><li>[[The Tribes/Halflings.md\\|Halflings]]</li></ul>           | N/A                                                                                                                                                                                           | N/A        |
 > | [[Geography/City/Starshore\|Starshore]]               | N/A              | <ul><li>[[The Tribes/Eladrin.md\\|Eladrin]]</li></ul>               | N/A                                                                                                                                                                                           | N/A        |
-> | [[Geography/City/The Swarm Warren\|The Swarm Warren]] | N/A              | <ul><li>[[The Tribes/Goblins.md\\|Goblins]]</li></ul>               | N/A                                                                                                                                                                                           | N/A        |
 > | [[Geography/City/Tre Coedwig\|Tre Coedwig]]           | N/A              | <ul><li>[[The Tribes/Dwarves.md\\|Dwarves]]</li></ul>               | N/A                                                                                                                                                                                           | N/A        |
+> | [[Geography/City/The Swarm Warren\|The Swarm Warren]] | N/A              | <ul><li>[[The Tribes/Goblins.md\\|Goblins]]</li></ul>               | N/A                                                                                                                                                                                           | N/A        |
 > | [[Geography/City/Trust Knot\|Trust Knot]]             | N/A              | <ul><li>[[The Tribes/Tabaxi.md\\|Tabaxi]]</li></ul>                 | N/A                                                                                                                                                                                           | N/A        |
 > | [[Geography/City/Vigil\|Vigil]]                       | N/A              | <ul><li>[[The Tribes/Goliath.md\\|Goliath]]</li></ul>               | N/A                                                                                                                                                                                           | N/A        |
 > 
