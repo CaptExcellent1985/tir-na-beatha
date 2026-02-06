@@ -5,13 +5,13 @@
 
 > [!Infobox]
 > | Max HP | AC  | Speed | Iniative |
->| ------ | --- | ----- | -------- |
+>| :------: | :---: | :-----: | :--------: |
 >|   20     |  18   |   30    |    +2      |
 >|        |     |       |          |
 > <br>
 > 
 > | Attribute     | Score | Modifier |
-> | ------------- | ----- | -------- |
+> | ------------- | :-----: | :--------: |
 > | Strength      |   16    |     +3     |
 > | Dexterity     |   15    |      +2    |
 > | Constitution  |   14    |     +2     |
@@ -20,26 +20,26 @@
 > | Charisma      |   13    |    +1      |
 ><br>
 >
-> | Skill                 | Base | Prof. | Ttl|
-> | --------------------- | ---- | ----------- | ----- |
-> | Acrobatics (Dex)      |      |             |       |
-> | Animal Handling (Wis) |      |             |       |
-> | Arcana (Int)          |      |             |       |
-> | Athletics (Str)       |      |             |       |
-> | Deception (Cha)       |      |             |       |
-> | History (Int)         |      |             |       |
-> | Insight (Wis)         |      |             |       |
-> | Intimidation (Cha)    |      |             |       |
-> | Investigation (Int)   |      |             |       |
-> | Medicine (Wis)        |      |             |       |
-> | Nature (Int)          |      |             |       |
-> | Perception (Wis)      |      |             |       |
-> | Performance (Cha)     |      |             |       |
-> | Persuasion (Cha)      |      |             |       |
-> | Religion (Int)        |      |             |       |
-> | Sleight of Hand (Dex) |      |             |       |
-> | Stealth (Dex)         |      |             |       |
-> | Survival (Wis)        |      |             |       |
+> | Skill                 | Modifier | 
+> | --------------------- |:----:|
+> | Acrobatics (Dex)      |    +2  | 
+> | Animal Handling (Wis) |   +2   | 
+> | Arcana (Int)          |   +1   |
+> | Athletics (Str)       |  +3    |
+> | Deception (Cha)       |  +1    |  
+> | History (Int)         |   +1   | 
+> | Insight (Wis)         |   0   |  
+> | Intimidation (Cha)    |  +3    | 
+> | Investigation (Int)   |   +1   |
+> | Medicine (Wis)        |   0   | 
+> | Nature (Int)          |   +1   | 
+> | Perception (Wis)      |  +2    | 
+> | Performance (Cha)     |   +1   |
+> | Persuasion (Cha)      |  +1    | 
+> | Religion (Int)        |   +1   |
+> | Sleight of Hand (Dex) |   +2   |
+> | Stealth (Dex)         |   +2   | 
+> | Survival (Wis)        |  +2    |  
 
 
 
