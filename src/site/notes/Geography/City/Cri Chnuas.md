@@ -25,6 +25,7 @@
 #### Politics
 ###### Devoted Hivemind
 > Where other [[The Tribes/Kobolds\|Kobold]] colonies typically  have one or two central leaders that direct the [[The Tribes/Kobolds\|Kobold]] hivemind for that colony, Cri Chnuas differs in this respect. With no identified figure, many [[The Tribes/Kobolds\|Kobolds]] native to the city simply adopt their given role without any question or thought to who may hold power over them. Given the secretive nature of the [[The Tribes/Kobolds\|Kobolds]], it is possible that this leadership is housed in the lower city, but to date no information of who this may be has surfaced. 
+> Hark!
 
 #### Locales
 >  | Name                                                               | Located In                                   | Type   | Sub-Type                | Primary NPC                                       |
