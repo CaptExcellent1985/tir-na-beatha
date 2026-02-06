@@ -48,9 +48,10 @@
 { .block-language-dataview}
 
 #### Prominent Locations
->  | Name                                                 | Located In                                                 | Type | Sub-Type | Factions | Primary NPC |
-> | ---------------------------------------------------- | ---------------------------------------------------------- | ---- | -------- | -------- | ----------- |
-> | [[Geography/City/Fathom's Pride\|Fathom's Pride]] | [[Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]] | City | N/A      | N/A      | N/A         |
+>  | Name                                                       | Located In                                                 | Type   | Sub-Type      | Factions | Primary NPC |
+> | ---------------------------------------------------------- | ---------------------------------------------------------- | ------ | ------------- | -------- | ----------- |
+> | [[Geography/City/Fathom's Pride\|Fathom's Pride]]       | [[Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]] | City   | N/A           | N/A      | N/A         |
+> | [[Geography/Locale/Matriarch's Rest\|Matriarch's Rest]] | [[Geography/City/Cri Chnuas\|Cri Chnuas]]               | Locale | Mooring Point | N/A      | N/A         |
 > 
 { .block-language-dataview}
 

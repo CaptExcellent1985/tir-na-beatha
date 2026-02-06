@@ -36,9 +36,10 @@
 
 
 #### Prominent Locations
->  | Name                                         | Type | Sub-Type | Primary NPC |
-> | -------------------------------------------- | ---- | -------- | ----------- |
-> | [[Geography/City/Cri Chnuas\|Cri Chnuas]] | City | N/A      | N/A         |
+>  | Name                                                         | Type     | Sub-Type | Primary NPC |
+> | ------------------------------------------------------------ | -------- | -------- | ----------- |
+> | [[Geography/City/Cri Chnuas\|Cri Chnuas]]                 | City     | Capital  | N/A         |
+> | [[Geography/Landmark/Cleverclaw Creek\|Cleverclaw Creek]] | Landmark | Natural  | N/A         |
 > 
 { .block-language-dataview} 
 

@@ -41,19 +41,25 @@
 > Insert quick summary of historical events
 
 #### Prominent Figures
->  | Name | Currently At | Faction | Status | Alignment | Disposition |
-> | ---- | ------------ | ------- | ------ | --------- | ----------- |
+>  | Name                                              | Currently At                                                       | Faction                                                    | Status | Alignment    | Disposition |
+> | ------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------- | ------ | ------------ | ----------- |
+> | [[NPCs/Contemporary/Firebomb\|Firebomb]]       | [[Geography/Locale/Clutch of the Arcane\|Clutch of the Arcane]] | [[Factions/Clutch of the Arcane\|Clutch of the Arcane]] | Alive  | Lawful Good  | 🔴 Hostile  |
+> | [[NPCs/Contemporary/Spark Scale\|Spark Scale]] | [[Geography/Locale/Ember-Belly Inn\|Ember-Belly Inn]]           | [[Factions/Clutch of the Arcane\|Clutch of the Arcane]] | Alive  | Chaotic Good | 🟢 Friendly |
 > 
 { .block-language-dataview}
 
 #### Prominent Locations
->  | Name                                         | Located In                                               | Type | Sub-Type | Factions | Primary NPC |
-> | -------------------------------------------- | -------------------------------------------------------- | ---- | -------- | -------- | ----------- |
-> | [[Geography/City/Cri Chnuas\|Cri Chnuas]] | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]] | City | N/A      | N/A      | N/A         |
+>  | Name                                                               | Located In                                               | Type   | Sub-Type                | Factions                                                                      | Primary NPC                                       |
+> | ------------------------------------------------------------------ | -------------------------------------------------------- | ------ | ----------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------- |
+> | [[Geography/City/Cri Chnuas\|Cri Chnuas]]                       | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]] | City   | Capital                 | <ul><li>[[Factions/Clutch of the Arcane.md\\|Clutch of the Arcane]]</li></ul> | N/A                                               |
+> | [[Geography/Locale/Ember-Belly Inn\|Ember-Belly Inn]]           | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Thriving Tavern         | N/A                                                                           | [[NPCs/Contemporary/Spark Scale\|Spark Scale]] |
+> | [[Geography/Locale/Matriarch's Rest\|Matriarch's Rest]]         | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Mooring Point           | N/A                                                                           | N/A                                               |
+> | [[Geography/Locale/Clutch of the Arcane\|Clutch of the Arcane]] | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Sorcerer Academy        | <ul><li>[[Factions/Clutch of the Arcane.md\\|Clutch of the Arcane]]</li></ul> | N/A                                               |
+> | [[Geography/Locale/The Cracked Shell\|The Cracked Shell]]       | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Alchemical Grad Studies | <ul><li>[[Factions/Clutch of the Arcane.md\\|Clutch of the Arcane]]</li></ul> | N/A                                               |
 > 
 { .block-language-dataview}
 
 #### DM's Notes
-- Insert DM's notes to be integrated later.
+- The Kobolds do not have a strict political hierarchy as do some of the other tribes. Any Kobold settlement seems to operate under a hive mind, and the city of Cri Chnuas is no different. All Kobolds of the city seem to know their role within it, and perform that duty without question and that role may change according to the needs of the colony. 
 
 
