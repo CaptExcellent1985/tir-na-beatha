@@ -42,9 +42,11 @@
 { .block-language-dataview}
 
 #### Associated Locations
->  | Name                                                         | Located In                                   | Type   | Sub-Type                | Primary NPC |
-> | ------------------------------------------------------------ | -------------------------------------------- | ------ | ----------------------- | ----------- |
-> | [[Geography/Locale/The Cracked Shell\|The Cracked Shell]] | [[Geography/City/Cri Chnuas\|Cri Chnuas]] | Locale | Alchemical Grad Studies | N/A         |
+>  | Name                                                               | Located In                                               | Type   | Sub-Type                | Primary NPC |
+> | ------------------------------------------------------------------ | -------------------------------------------------------- | ------ | ----------------------- | ----------- |
+> | [[Geography/City/Cri Chnuas\|Cri Chnuas]]                       | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]] | City   | Capital                 | N/A         |
+> | [[Geography/Locale/Clutch of the Arcane\|Clutch of the Arcane]] | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Sorcerer Academy        | N/A         |
+> | [[Geography/Locale/The Cracked Shell\|The Cracked Shell]]       | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Alchemical Grad Studies | N/A         |
 > 
 { .block-language-dataview} 
 
