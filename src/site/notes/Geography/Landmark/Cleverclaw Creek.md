@@ -19,6 +19,6 @@
 
 
 #### Summary
-> Flowing from the Weeping Jester Falls south-west before joining with the Abhainn Nathair, this creek serves as a vital trade route to the Kobold city of [Cri Chnuas](app://obsidian.md/Cri%20Chnuas). Run-off from various alchemical operations have recently began to foul the water of this thorough-fare. 
+> Flowing from the Weeping Jester Falls south-west before joining with the Abhainn Nathair, this creek serves as a vital trade route to the Kobold city of [[Geography/City/Cri Chnuas\|Cri Chnuas]]. Run-off from various alchemical operations have recently began to foul the water of this thorough-fare. 
 
 
