@@ -5,7 +5,7 @@
 > [!infobox]
 > # Renna Dubhán  
 > # (REN-nah Doo-van)
-> ![Renna Dubhan.png](/img/user/Assets/Renna%20Dubhan.png)
+> ![Renna Dubhan.png](/img/user/Assets/Characters/Renna%20Dubhan.png)
 > 
 > | Attributes |     |
 > | ---------- | --- |

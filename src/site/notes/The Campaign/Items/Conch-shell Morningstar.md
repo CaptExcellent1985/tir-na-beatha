@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> ![Conch-shell Morningstar.png](/img/user/Assets/Conch-shell%20Morningstar.png)
+> ![Conch-shell Morningstar.png](/img/user/Assets/Objects/Conch-shell%20Morningstar.png)
 
 #### Description
 

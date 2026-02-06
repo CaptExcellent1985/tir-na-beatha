@@ -31,7 +31,7 @@
 > Weave-Mothers find their membership amongst those [[02 - Tuatha\|Tuatha]] who embody the feminine spirit of the [[Tir Na Beatha Leaflet\|Tir]] and seek to nurture. Through the practicing of druidic rituals, members form an empathetic relationship between themselves, the Groves and the Moths. Enchanting techniques passed on through the [[The Tribes/Feyfolk\|Fey]] and the [[The Tribes/Gnomes\|Gnomes]] extend this relationship to the [[Cultural Matters/Physical/Lumina Silk\|Lumina Silk]] and [[Cultural Matters/Physical/Currency & Trade\|knots]] they produce. [[The Tribes/Kobolds\|Kobold]] and [[The Tribes/Firbolg\|Firbolg]] alchemical understanding is taught and applied to ensure a bountiful harvest. 
 
 #### Hierarchy
-> ![Weave-Mother Hiearchy.png](/img/user/Assets/Weave-Mother%20Hiearchy.png)
+> ![Weave-Mother Hiearchy.png](/img/user/Assets/Hierarchies/Weave-Mother%20Hiearchy.png)
 >
 > | Rank / Title                 | Definition / Description                                                                                                                                                    |
 > | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

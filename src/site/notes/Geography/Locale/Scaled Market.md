@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
->  Insert Image Here, preceded by ! to embed
+>  ![The Scaled Market.jpg](/img/user/The%20Scaled%20Market.jpg)
 >  
 > |   Scaled Market              |     |
 > | --------------- | --- |

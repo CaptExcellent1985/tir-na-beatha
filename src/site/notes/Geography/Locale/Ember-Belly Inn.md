@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> ![tavern.jpg](/img/user/Assets/tavern.jpg)
+> ![tavern.jpg](/img/user/Assets/Locations/tavern.jpg)
 >  
 > |   Ember-Belly Inn              |     |
 > | --------------- | --- |

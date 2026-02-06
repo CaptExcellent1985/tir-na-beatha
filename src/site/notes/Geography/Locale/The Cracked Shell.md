@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
->  ![Sorcerery Academy - Alchemy Shop.jpg](/img/user/Assets/Sorcerery%20Academy%20-%20Alchemy%20Shop.jpg)
+>  ![Sorcerery Academy - Alchemy Shop.jpg](/img/user/Assets/Locations/Sorcerery%20Academy%20-%20Alchemy%20Shop.jpg)
 >  
 > |   The Cracked Shell              |     |
 > | --------------- | --- |

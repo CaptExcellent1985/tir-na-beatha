@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> ![Cri Chnuas.jpg](/img/user/Assets/Cri%20Chnuas.jpg)
+> ![Assets/Locations/Cri Chnuas.jpg](/img/user/Assets/Locations/Cri%20Chnuas.jpg)
 > 
 > |   Cri Chnuas          |     |
 > | ------------------ | --- |

@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> ![AmbermaoDust.png](/img/user/Assets/AmbermaoDust.png)
+> ![AmbermaoDust.png](/img/user/Assets/Objects/AmbermaoDust.png)
 > 
 > |        Ambermao             |     |
 > | ------------------- | --- |

@@ -4,7 +4,7 @@
 
 
 >[!Infobox]
-> ![Wellandrym Vale.png](/img/user/Assets/Wellandrym%20Vale.png)
+> ![Wellandrym Vale.png](/img/user/Assets/Locations/Wellandrym%20Vale.png)
 > 
 > | Wellandrym Vale  |     |
 > | ------------------- | --- |

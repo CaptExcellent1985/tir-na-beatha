@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
->  ![Sorcerery Academy - Lecture Hall.jpg](/img/user/Assets/Sorcerery%20Academy%20-%20Lecture%20Hall.jpg)
+>  ![Sorcerery Academy - Lecture Hall.jpg](/img/user/Assets/Locations/Sorcerery%20Academy%20-%20Lecture%20Hall.jpg)
 >  
 > |   Clutch of the Arcane              |     |
 > | --------------- | --- |

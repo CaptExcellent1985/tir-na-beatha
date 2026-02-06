@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
->  ![Matriarch's Rest.jpg](/img/user/Assets/Matriarch's%20Rest.jpg)
+>  ![Matriarch's Rest.jpg](/img/user/Assets/Locations/Matriarch's%20Rest.jpg)
 >  
 > |   Matriarch's Rest              |     |
 > | --------------- | --- |

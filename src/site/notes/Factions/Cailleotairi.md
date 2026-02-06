@@ -36,7 +36,7 @@
 > A Cailleotairi is expected to be a master of their craft - a cut above the rest of the [[02 - Tuatha\|Tuatha]]. Whether through blade, spell, or intuition, a Cailleotairi without the necessary skill to uphold their authority is doomed to fail in their [[Cultural Matters/Sociology/The Verdant Oath\|Verdant Oath]]. Through [[Cultural Matters/Sociology/The Proving\|The Proving]] a Cailleotairi recruit demonstrates this mastery and earns the trust that is placed in them. 
 
 #### Hierarchy
-> ![Cailleotairi Hiearchy.png](/img/user/Assets/Cailleotairi%20Hiearchy.png)
+> ![Cailleotairi Hiearchy.png](/img/user/Assets/Hierarchies/Cailleotairi%20Hiearchy.png)
 > 
 > | Rank / Title         | Pronunciation                            | Definition            |
 > | -------------------- | ---------------------------------------- | --------------------- |
