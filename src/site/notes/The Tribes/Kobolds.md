@@ -49,13 +49,11 @@
 { .block-language-dataview}
 
 #### Prominent Locations
->  | Name                                                               | Located In                                               | Type   | Sub-Type                | Factions                                                                      | Primary NPC                                       |
-> | ------------------------------------------------------------------ | -------------------------------------------------------- | ------ | ----------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------- |
-> | [[Geography/City/Cri Chnuas\|Cri Chnuas]]                       | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]] | City   | Capital                 | <ul><li>[[Factions/Clutch of the Arcane.md\\|Clutch of the Arcane]]</li></ul> | N/A                                               |
-> | [[Geography/Locale/Ember-Belly Inn\|Ember-Belly Inn]]           | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Thriving Tavern         | N/A                                                                           | [[NPCs/Contemporary/Spark Scale\|Spark Scale]] |
-> | [[Geography/Locale/Matriarch's Rest\|Matriarch's Rest]]         | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Mooring Point           | N/A                                                                           | N/A                                               |
-> | [[Geography/Locale/Clutch of the Arcane\|Clutch of the Arcane]] | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Sorcerer Academy        | <ul><li>[[Factions/Clutch of the Arcane.md\\|Clutch of the Arcane]]</li></ul> | N/A                                               |
-> | [[Geography/Locale/The Cracked Shell\|The Cracked Shell]]       | [[Geography/City/Cri Chnuas\|Cri Chnuas]]             | Locale | Alchemical Grad Studies | <ul><li>[[Factions/Clutch of the Arcane.md\\|Clutch of the Arcane]]</li></ul> | N/A                                               |
+>  | Name                                                         | Located In                                   | Type   | Sub-Type                | Factions                                                                      | Primary NPC                                       |
+> | ------------------------------------------------------------ | -------------------------------------------- | ------ | ----------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------- |
+> | [[Geography/Locale/Ember-Belly Inn\|Ember-Belly Inn]]     | [[Geography/City/Cri Chnuas\|Cri Chnuas]] | Locale | Thriving Tavern         | N/A                                                                           | [[NPCs/Contemporary/Spark Scale\|Spark Scale]] |
+> | [[Geography/Locale/Matriarch's Rest\|Matriarch's Rest]]   | [[Geography/City/Cri Chnuas\|Cri Chnuas]] | Locale | Mooring Point           | N/A                                                                           | N/A                                               |
+> | [[Geography/Locale/The Cracked Shell\|The Cracked Shell]] | [[Geography/City/Cri Chnuas\|Cri Chnuas]] | Locale | Alchemical Grad Studies | <ul><li>[[Factions/Clutch of the Arcane.md\\|Clutch of the Arcane]]</li></ul> | N/A                                               |
 > 
 { .block-language-dataview}
 
