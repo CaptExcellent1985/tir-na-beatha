@@ -22,10 +22,10 @@
 > 
 > | Unit          | Image                | Single Knots | Double Knots | Square Knots | Eternity Knots |
 > | ------------- | -------------------- | ------------ | ------------ | ------------ | -------------- |
-> | Single Knot   | ![[single knot.jpg\|100]] | 1            | 1 / 10       | 1 / 100      | 1 / 1000       |
-> | Double Knot   |      ![[double knot.jpg\|100]]                | 10           | 1            | 1 / 10       | 1 / 100        |
-> | Square Knot   |            ![[square knot.jpg\|100]]          | 100          | 10           | 1            | 1 / 10         |
-> | Eternity Knot |           ![[eternity knot.jpg\|100]]           | 1000         | 100          | 10           | 1              |
+> | Single Knot   | ![[single knot.jpg\]]| 1            | 1 / 10       | 1 / 100      | 1 / 1000       |
+> | Double Knot   |      ![double knot.jpg](/img/user/Assets/Objects/double%20knot.jpg)                | 10           | 1            | 1 / 10       | 1 / 100        |
+> | Square Knot   |            ![square knot.jpg](/img/user/Assets/Objects/square%20knot.jpg)          | 100          | 10           | 1            | 1 / 10         |
+> | Eternity Knot |           ![eternity knot.jpg](/img/user/Assets/Objects/eternity%20knot.jpg)           | 1000         | 100          | 10           | 1              |
 
 ###### Unique Properties
 > Knots are made from the silk of the Lumina Moth. This unique material is fine and soft in texture, and it fluoresces and shifts colours when exposed to emotional energy. It is this unique magical property of the silk that makes it a suitable material for currency, as duplicating this makes the creation of counterfeit knots extremely difficult, if not impossible.
