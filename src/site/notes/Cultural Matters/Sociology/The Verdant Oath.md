@@ -17,7 +17,7 @@
 
 #### Summary
 
-> The Verdant Oath is sworn by all new [[Factions/Cailleotairi\|Cailleotairi]] after they survive [[Cultural Matters/Sociology/The Proving\|The Proving]]. It encapsulates their core values and symbolizes their dedication to the [[Tir Na Beatha Leaflet\|Tir]], all[[The Tribes\|Tuatha]], and to each other. 
+> The Verdant Oath is sworn by all new [[Factions/Cailleotairi\|Cailleotairi]] after they survive [[Cultural Matters/Sociology/The Proving\|The Proving]]. It encapsulates their core values and symbolizes their dedication to the [[Tir Na Beatha Leaflet\|Tir]], all[[02 - Tuatha\|Tuatha]], and to each other. 
 
 #### Detailed Summary
 

@@ -10,7 +10,7 @@
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  1053   |
 > | Factions       |   [[Factions/Weave-mothers\|Weave-mothers]], [[Factions/Cailleotairi\|Cailleotairi]]  |
-> | Tribes         |  [[The Tribes\|Tuatha]]   |
+> | Tribes         |  [[02 - Tuatha\|Tuatha]]   |
 > | Locations      |   [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 

@@ -50,7 +50,7 @@
 
 #### Biography 
 
-> During [[History/The Sundering Plague\|The Sundering Plague]],  Phestisnumenor called to the [[The Tribes\|Proto-Tuatha]] who would become the [[The Tribes/Kobolds\|Kobolds]] through their dreams. He helped them to find new life and adapt to the [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]] and would become the inspiration for the God [[Religion/Pantheon/Cernunnos\|Cernunnos]]. 
+> During [[History/The Sundering Plague\|The Sundering Plague]],  Phestisnumenor called to the [[02 - Tuatha\|Proto-Tuatha]] who would become the [[The Tribes/Kobolds\|Kobolds]] through their dreams. He helped them to find new life and adapt to the [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]] and would become the inspiration for the God [[Religion/Pantheon/Cernunnos\|Cernunnos]]. 
 
 ###### Sub-Heading
 

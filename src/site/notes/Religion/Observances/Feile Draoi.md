@@ -13,11 +13,11 @@
 > | Observed On | 1 Midsummer Moon |
 > | Dieties  |   N/A  |
 > | Domains  |  N/A   |
-> | Tribes   |  [[The Tribes\|Tuatha]]   |
+> | Tribes   |  [[02 - Tuatha\|Tuatha]]   |
 > | Factions | N/A    |
 
 #### Summary
-> A festival held each year in [[Geography/City/Aite-Briethe\|Aite-Briethe]]. A celebration of [[Religion/Myths & Legends/The Telling\|The Telling]], the creation of [[Tir Na Beatha Leaflet\|Tir Na Beatha Leaflet]], [[The Tribes\|Tuatha]] and of the shared culture between the Tribes. Culminates in [[Cultural Matters/Sociology/The Proving\|The Proving]]
+> A festival held each year in [[Geography/City/Aite-Briethe\|Aite-Briethe]]. A celebration of [[Religion/Myths & Legends/The Telling\|The Telling]], the creation of [[Tir Na Beatha Leaflet\|Tir Na Beatha Leaflet]], [[02 - Tuatha\|Tuatha]] and of the shared culture between the Tribes. Culminates in [[Cultural Matters/Sociology/The Proving\|The Proving]]
 
 #### Detailed Summary
 

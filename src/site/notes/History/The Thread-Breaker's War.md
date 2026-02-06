@@ -10,7 +10,7 @@
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  1050 - 1053   |
 > | Factions       |   [[Factions/Cailleotairi\|Cailleotairi]]  |
-> | Tribes         |  [[The Tribes\|Tuatha]]   |
+> | Tribes         |  [[02 - Tuatha\|Tuatha]]   |
 > | Locations      |   [[Tir Na Beatha Leaflet\|Tir]]  |
 > | Key Figures |   N/A  |
 

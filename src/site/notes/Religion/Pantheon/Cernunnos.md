@@ -22,7 +22,7 @@
 > God of all the Wild Things, Cernunnos is sometimes worshipped by hunters and herders who seek to understand and tame the beasts of the land. He is also, however, the God of trickery, and delights in cleverness. Legends speak of his hand in the creation of the [[The Tribes/Kobolds\|Kobolds]], [[The Tribes/Goblins\|Goblins]], and [[The Tribes/Tabaxi\|Tabaxi]]. 
 
 #### Common Depictions
-> Cernunnos has several depictions amongst the [[The Tribes\|Tuatha]], reflecting their own relationship between themselves and his divine domains. The most popular one is that of the [[The Tribes/Kobolds\|Kobolds]], where Cernunnos is shown to be a cloaked humanoid figure with the singular horn of a stag on the left side of his head and a tangle of briars and thorns where the second antler should be. Typically the cloak he wears is one of living moss and leaves. Nicknamed "The Briar-Horn" and "Lord of the Tangled Path", it is a reflection of Cernunnos love of the wild and clever and his pledge to protect them. 
+> Cernunnos has several depictions amongst the [[02 - Tuatha\|Tuatha]], reflecting their own relationship between themselves and his divine domains. The most popular one is that of the [[The Tribes/Kobolds\|Kobolds]], where Cernunnos is shown to be a cloaked humanoid figure with the singular horn of a stag on the left side of his head and a tangle of briars and thorns where the second antler should be. Typically the cloak he wears is one of living moss and leaves. Nicknamed "The Briar-Horn" and "Lord of the Tangled Path", it is a reflection of Cernunnos love of the wild and clever and his pledge to protect them. 
 > 
 > Amongst the [[The Tribes/Goblins\|Goblins]] and some [[The Tribes/Kobolds\|Kobolds]] he is depicted as "The Grinning Shadow", a huddled figure lacking a face, instead only possessing a wide and toothy grin. Often-times, he is shown holding a finger to his "lips" as if to shush the viewer. This speaks to the sometimes stealthy nature of Cernunnos and his followers. 
 > 
@@ -32,7 +32,7 @@
 ###### Offerings & Boons
 > It is believed that Cernunnos favours sweet treats, so shrines devoted to the Trickster god are usually littered with baked goods and other confections. However, these offerings must be stolen in order to be considered worthy; only that which was obtained through guile will gain his favour. He also favours the offering of most stolen objects, and in prayer, any tale of gaining the upper hand through trickery or deceit. Clever and dastardly traps of both the lethal and non-lethal variety are often also presented as offerings at a shrine to Cernunnos.
 > 
-> Cernunnos offers several gifts to those who please him. The gift of *The Green Road* is invaluable for the smaller-folk of the [[The Tribes\|Tuatha]], where in a clear path to ones goal or escape danger presents itself through an otherwise deadly thicket. The Golden Tongue offers Cernunnos faithful the ability to sway others through speech, and the gift of the *Wild-Heart* is sought by many Tabaxi who wish for a complete understanding of their prey. 
+> Cernunnos offers several gifts to those who please him. The gift of *The Green Road* is invaluable for the smaller-folk of the [[02 - Tuatha\|Tuatha]], where in a clear path to ones goal or escape danger presents itself through an otherwise deadly thicket. The Golden Tongue offers Cernunnos faithful the ability to sway others through speech, and the gift of the *Wild-Heart* is sought by many Tabaxi who wish for a complete understanding of their prey. 
 > 
 
 ###### Taboo's

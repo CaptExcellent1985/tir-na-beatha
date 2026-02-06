@@ -10,7 +10,7 @@
 > | Era            |  ATT (After the Telling)   |
 > | Year           |  275   |
 > | Factions       |   [[Factions/Cailleotairi\|Cailleotairi]]  |
-> | Tribes         |  [[The Tribes\|Tuatha]]   |
+> | Tribes         |  [[02 - Tuatha\|Tuatha]]   |
 > | Locations      |   [[Geography/Locale/Siorlann\|Siorlann]], [[Geography/City/Aite-Briethe\|Aite-Briethe]]  |
 > | Key Figures |   N/A  |
 

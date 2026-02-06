@@ -69,7 +69,7 @@
 > | Location    |  [[Geography/City/Cri Chnuas\|Cri Chnuas]] |
 > | Faction     |  N/A|
 > | Faction Rank | N/A| 
-> | Party | Koldea |
+> | Party | Vagabonds |
 > | Relations   |    N/A  |
 
 #### Personality
@@ -93,10 +93,10 @@
 { .block-language-dataview}
 
 #### Session's
->  | Name                                                                                                                 | Party  | SessionNumb | Date              |
-> | -------------------------------------------------------------------------------------------------------------------- | ------ | ----------- | ----------------- |
-> | [[The Campaign/Koldea/Session Recaps/01 - Chaos at Cri Chnuas Market\|01 - Chaos at Cri Chnuas Market]]           | Koldea | 1           | November 30, 2025 |
-> | [[The Campaign/Koldea/Session Recaps/02 - Mysteries of the Hidden Citadel\|02 - Mysteries of the Hidden Citadel]] | Koldea | 2           | January 30, 2026  |
+>  | Name                                                                                                       | Party                       | SessionNumb | Date              |
+> | ---------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | ----------------- |
+> | [[The Campaign/Koldea/Session Recaps/Chaos at Cri Chnuas Market\|Chaos at Cri Chnuas Market]]           | <ul><li>Vagabonds</li></ul> | 1           | November 30, 2025 |
+> | [[The Campaign/Koldea/Session Recaps/Mysteries of the Hidden Citadel\|Mysteries of the Hidden Citadel]] | <ul><li>Vagabonds</li></ul> | 2           | January 30, 2026  |
 > 
 { .block-language-dataview}
 
