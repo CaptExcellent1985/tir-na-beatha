@@ -17,5 +17,6 @@
 > | [[Factions/Shepherds of Brigid\|Shepherds of Brigid]]                   | N/A                                              | <ul><li>[[The Tribes/Twilight Elves.md\\|Twilight Elves]]</li></ul> | N/A          |
 > | [[Factions/The Crimson Daggers\|The Crimson Daggers]]                   | [[Geography/City/Garnhold\|Garnhold]]         | N/A                                                                 | Chaotic Evil |
 > | [[Factions/Weave-mothers\|Weave-mothers]]                               | [[Geography/Locale/Siorlann\|Siorlann]]       | <ul><li>[[02 - Tuatha.md\\|Tuatha]]</li></ul>                       | Neutral      |
+> | [[Factions/Clutch of the Arcane\|Clutch of the Arcane]]                 | [[Geography/City/Cri Chnuas\|Cri Chnuas]]     | <ul><li>[[The Tribes/Kobolds.md\\|Kobolds]]</li></ul>               | Chaotic Good |
 > 
 { .block-language-dataview}
