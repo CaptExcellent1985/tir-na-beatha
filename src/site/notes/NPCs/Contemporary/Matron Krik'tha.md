@@ -56,6 +56,7 @@
 
 > Go into detail here. Include new Sub-headings to keep concepts grouped together. Cross-link to Events if needed.
 
-#### Campaign Notes
-
+%%
+#### DM Notes
 - Survived a harsh up-bringing amongst the Goblin tribes
+- ""Wealth is like water and must flow for the health of all."

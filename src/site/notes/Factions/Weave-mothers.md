@@ -23,7 +23,7 @@
 #### Summary
 > The Weave-mothers care for the [[Cultural Matters/Physical/Lumina Moth\|Lumina Moth]] and the [[Cultural Matters/Physical/Moonpetal Bloom\|Moonpetal Bloom]] on which it feeds. They are responsible for cultivating the [[Cultural Matters/Physical/Lumina Silk\|Lumina Silk]] and weaving it into the [[Cultural Matters/Physical/Currency & Trade\|knots]] that serves as the currency for the [[Tir Na Beatha Leaflet\|Tir]]. The Weave-Mothers are well trained in druidic magic, as well as alchemy and enchanting and possess a matronly demeanor towards both the [[Cultural Matters/Physical/Lumina Moth\|Lumina Moth]] and the [[02 - Tuatha\|Tuatha]]. Because of the sensitivity required to raise the moth's and coax them into producing their valuable silk, only the Weave-mothers are permitted to handle them. 
 > 
-> Overseen by the Triumvirate of the Weave, they also oversee the management of the burgeoning economy of the [[Tir Na Beatha Leaflet\|Tir]]. Silk-Matron's serve as bankers and economic advisors, ensuring the value of the knot is consistent for all and that no one tribe, guild, or [[02 - Tuatha\|Tuatha]] hoards their wealth and halts the free-flow of trade and commerce. They maintain an easy alliance with the Council of Aite-Briethe and the [[Factions/Cailleotairi\|Cailleotairi]] in the pursuit of their goals of a equitable future for all. 
+> Overseen by the Triumvirate of the Weave, they also oversee the management of the burgeoning economy of the [[Tir Na Beatha Leaflet\|Tir]]. Silk-Matron's serve as bankers and economic advisors, ensuring the value of the knot is consistent for all and that no one tribe, guild, or [[02 - Tuatha\|Tuatha]] hoards their wealth and halts the free-flow of trade and commerce. They maintain an easy alliance with the [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]] and the [[Factions/Cailleotairi\|Cailleotairi]] in the pursuit of their goals of a equitable future for all. 
 
 #### Core Values
 > The core belief and guiding principle of the Weave-Mothers is that "Trust is Woven". They believe the complexity of diplomatic relations is symbolized within the weave of their [[Cultural Matters/Physical/Currency & Trade\|knots]] and that peace is promoted and maintained through a stable and centralized unit of trade. 
@@ -37,16 +37,16 @@
 > | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | **Triumvirate of the Weave** |                                                                                                                                                                             |
 > | The Chrysalis                | Leads the Veil-sisters in caring for the health of the [[Cultural Matters/Physical/Moonpetal Bloom\|Moonpetal Bloom]], the [[Cultural Matters/Physical/Lumina Moth\|Lumina Moth]], and the Lumina Groves.                                                             |
-> | The Filament                 | Oversees the Knot-Maidens and the quality of the [[Cultural Matters/Physical/Lumina Silk\|Lumina Silk]]. Serves as primary diplomat between the Weave-Mothers, the Council of Aite-Briethe, and the [[Factions/Cailleotairi\|Cailleotairi]].      |
-> | The Imago                    | Leads both the Silk-Matrons and the Unraveller's, she is responsible for the flow of currency within the [[[[Tir Na Beatha\|Tir]] Na Beatha|Tir]] and maintaining it's value and stability.                         |
+> | The Filament                 | Oversees the Knot-Maidens and the quality of the [[Cultural Matters/Physical/Lumina Silk\|Lumina Silk]]. Serves as primary diplomat between the Weave-Mothers, the [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]], and the [[Factions/Cailleotairi\|Cailleotairi]].      |
+> | The Imago                    | Leads both the Silk-Matrons and the Unraveller's, she is responsible for the flow of currency within the Tir and maintaining it's value and stability.                         |
 > | Veil-Sister                  | Operates under the guidance of the Chrysalis, to nurture the [[Cultural Matters/Physical/Lumina Moth\|Lumina moth]] through all stages of life. Also tends to the Lumina Grove and the [[Cultural Matters/Physical/Moonpetal Bloom\|Moonpetal Bloom]].                |
-> | Knot-Maiden                  | Produce the [[Cultural Matters/Physical/Currency & Trade\|knots]] and conduct the rituals that strengthen and balance the emotional resonance of the [[Cultural Matters/Physical/Lumina Silk\|lumina silk]].                                                           |
+> | Knot-Maiden                  | Produce the knots and conduct the rituals that strengthen and balance the emotional resonance of the [[Cultural Matters/Physical/Lumina Silk\|lumina silk]].                                                           |
 > | Silk-Matron                  | Serve under the Imago in settlements to maintain the local reserves of currency, as economic advisors, and to resolve disputes on the trade value of products and services. |
 > | Daughter                     | The initiates of the order, they perform all menial tasks while learning the ways of the Weave-mothers.                                                                     |
-> | Unraveller                   | A secretive sect under the auspices of the Imago, they act as spies and investigators, disrupting counterfeiting rings and pruning the reserves of dark [[Cultural Matters/Physical/Currency & Trade\|knots]].              |
+> | Unraveller                   | A secretive sect under the auspices of the Imago, they act as spies and investigators, disrupting counterfeiting rings and pruning the reserves of dark knots.              |
 
 ###### Triumvirate of the Weave
-> The Weave-Mothers are governed by a council of three, the wisest and most motherly of their order.  Each has an equal voice within the Triumvirate and no decision is final until consensus is achieved. They maintain an alliance with the Council of Aite-Briethe, and the [[Factions/Cailleotairi\|Cailleotairi]], while holding strict control over the economic health of the [[02 - Tuatha\|Tuatha]]. 
+> The Weave-Mothers are governed by a council of three, the wisest and most motherly of their order.  Each has an equal voice within the Triumvirate and no decision is final until consensus is achieved. They maintain an alliance with the [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]], and the [[Factions/Cailleotairi\|Cailleotairi]], while holding strict control over the economic health of the [[02 - Tuatha\|Tuatha]]. 
 > 
 > The Chrysalis is seen as being one with the Grove and the Moth and their pain is her pain. She is gifted with the ability to root out sickness before it can spread, and sense when environmental factors in the region will negatively impact the health and well-being of her charges. 
 > 
@@ -62,7 +62,7 @@
 > As the [[The Tribes/Tritons\|Tritons]] were beginning to strengthen their hold over the riverways of the [[Tir Na Beatha Leaflet\|Tir]], they saw value in using [[Cultural Matters/Physical/Currency & Trade\|knots]] for the collection of tolls. With the signing of the Charter in 1011 ATT, the [[The Tribes/Tritons\|Triton]] Matriarch's formally adopted the knot as the only unit of trade accepted, giving more weight to the Weave-Mothers and [[Geography/City/Aite-Briethe\|Aite-Briethe]]. 
 
 ###### [[History/The Weave-Mother's Peace\|The Weave-Mother's Peace]]
-> At the conclusion of [[History/The Thread-Breaker's War\|The Thread-Breaker's War]], the Weave-Mothers were instrumental in negotiating peace between the tribes. They persuasively argued for the creation of the Council of Aite-Briethe, the recognition of a shared-heritage amongst the [[02 - Tuatha\|Tuatha]], and that the adoption of a centralized and stable currency would help to keep the peace. The knot became the formal currency in the [[Tir Na Beatha Leaflet\|Tir]] and the Weave-Mother's authority over all stages of it's creation established. 
+> At the conclusion of [[History/The Thread-Breaker's War\|The Thread-Breaker's War]], the Weave-Mothers were instrumental in negotiating peace between the tribes. They persuasively argued for the creation of the [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]], the recognition of a shared-heritage amongst the [[02 - Tuatha\|Tuatha]], and that the adoption of a centralized and stable currency would help to keep the peace. The knot became the formal currency in the [[Tir Na Beatha Leaflet\|Tir]] and the Weave-Mother's authority over all stages of it's creation established. 
 
 
 
@@ -85,6 +85,3 @@
 > 
 { .block-language-dataview} 
 
-#### DM's Notes
-- Insert DM's notes to be integrated later
-- 
