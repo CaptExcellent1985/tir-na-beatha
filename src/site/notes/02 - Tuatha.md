@@ -8,7 +8,6 @@
 > | [[The Tribes/Dwarves\|Dwarves]]               | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]         |
 > | [[The Tribes/Eladrin\|Eladrin]]               | [[Geography/Region/Musewood\|Musewood]]                           |
 > | [[The Tribes/Feyfolk\|Feyfolk]]               | N/A                                                                  |
-> | [[The Tribes/Gnomes\|Gnomes]]                 | [[Geography/Region/Mosslight Murmur\|Mosslight Murmur]]           |
 > | [[The Tribes/Firbolg\|Firbolg]]               | [[Geography/Region/Elderoot Forest\|Elderoot Forest]]             |
 > | [[The Tribes/Goliath\|Goliath]]               | [[Geography/Region/Na Carraige Mountains\|Na Carraige Mountains]] |
 > | [[The Tribes/Halflings\|Halflings]]           | [[Geography/Region/The Thatch\|The Thatch]]                       |
@@ -20,6 +19,7 @@
 > | [[The Tribes/Tritons\|Tritons]]               | [[Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]]           |
 > | [[The Tribes/Twilight Elves\|Twilight Elves]] | [[Geography/Region/Doire Na Gealaich\|Doire Na Gealaich]]         |
 > | [[The Tribes/Wood Elves\|Wood Elves]]         | [[Geography/Region/Fossmore Forest\|Fossmore Forest]]             |
+> | [[The Tribes/Gnomes\|Gnomes]]                 | [[Geography/Region/Mosslight Murmur\|Mosslight Murmur]]           |
 > | [[The Tribes/Goblins\|Goblins]]               | [[Geography/Region/Wargbarrow Woods\|Wargbarrow Woods]]           |
 > 
 { .block-language-dataview}

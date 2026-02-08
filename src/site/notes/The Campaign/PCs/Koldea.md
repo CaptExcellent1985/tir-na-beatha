@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> | Max HP | AC  | Speed | Iniative |
+> | Max HP | AC  | Speed | Initiative |
 >| :------: | :---: | :-----: | :--------: |
 >|   20     |  18   |   30    |    +2      |
 >|        |     |       |          |
@@ -44,7 +44,7 @@
 
 
  #### Koldea  (N/A)
-> Insert Image Here by typing ! then Linking
+> ![Koldea.png](/img/user/Assets/Characters/Koldea.png)
 > 
 > | Physical |     |
 > | ---------- | --- |
@@ -66,7 +66,7 @@
 > | Connections |                            |
 > | ----------- | -------------------------- |
 > | Tribe       |  [[The Tribes/Kobolds\|Kobolds]]   |
-> | Location    |  [[Geography/City/Cri Chnuas\|Cri Chnuas]] |
+> | Location    |  [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]] |
 > | Faction     |  N/A|
 > | Faction Rank | N/A| 
 > | Party | Vagabonds |
@@ -93,10 +93,10 @@
 { .block-language-dataview}
 
 #### Session's
->  | Name                                                                                                       | Party                       | SessionNumb | Date              |
-> | ---------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | ----------------- |
-> | [[The Campaign/Koldea/Session Recaps/Chaos at Cri Chnuas Market\|Chaos at Cri Chnuas Market]]           | <ul><li>Vagabonds</li></ul> | 1           | November 30, 2025 |
-> | [[The Campaign/Koldea/Session Recaps/Mysteries of the Hidden Citadel\|Mysteries of the Hidden Citadel]] | <ul><li>Vagabonds</li></ul> | 2           | January 30, 2026  |
+>  | Name                                                                                                          | Party                       | SessionNumb | Date              |
+> | ------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | ----------------- |
+> | [[The Campaign/Vagabonds/Session Recaps/Chaos at Cri Chnuas Market\|Chaos at Cri Chnuas Market]]           | <ul><li>Vagabonds</li></ul> | 1           | November 30, 2025 |
+> | [[The Campaign/Vagabonds/Session Recaps/Mysteries of the Hidden Citadel\|Mysteries of the Hidden Citadel]] | <ul><li>Vagabonds</li></ul> | 2           | January 30, 2026  |
 > 
 { .block-language-dataview}
 
