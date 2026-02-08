@@ -14,6 +14,7 @@
 > | <ul><li>Super Troopers</li></ul> | [[The Campaign/PCs/Kallista Shadowhorn\|Kallista Shadowhorn]] | Alive  | Sorcerer - Aberrant Mind | <div style='text-align:center'>5</div> |
 > | <ul><li>Super Troopers</li></ul> | [[The Campaign/PCs/Kroq-Gar\|Kroq-Gar]]                       | Alive  | Warlock (Hexblade)       | <div style='text-align:center'>5</div> |
 > | <ul><li>Super Troopers</li></ul> | [[The Campaign/PCs/Sorn Talabrina\|Sorn Talabrina]]           | Alive  | Ranger (Gloom Stalker)   | <div style='text-align:center'>5</div> |
+> | <ul><li>Vagabonds</li></ul>      | [[The Campaign/PCs/Exploder\|Exploder]]                       | Alive  | Sorcerer (Wild Magic)    | <div style='text-align:center'>2</div> |
 > | <ul><li>Vagabonds</li></ul>      | [[The Campaign/PCs/Koldea\|Koldea]]                           | Alive  | Fighter                  | <div style='text-align:center'>2</div> |
 > | <ul><li>Vagabonds</li></ul>      | [[The Campaign/PCs/Themaer Eagerflower\|Themaer Eagerflower]] | Alive  | Cleric (Nature)          | <div style='text-align:center'>2</div> |
 > 
