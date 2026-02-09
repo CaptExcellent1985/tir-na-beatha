@@ -21,10 +21,11 @@
 { .block-language-dataview}
 
 #### Session Recaps
->  | Party                       | Session #                              | Name                                                                                                          |
-> | --------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-> | <ul><li>Vagabonds</li></ul> | <div style='text-align:center'>1</div> | [[The Campaign/Vagabonds/Session Recaps/Chaos at Cri Chnuas Market\|Chaos at Cri Chnuas Market]]           |
-> | <ul><li>Vagabonds</li></ul> | <div style='text-align:center'>2</div> | [[The Campaign/Vagabonds/Session Recaps/Mysteries of the Hidden Citadel\|Mysteries of the Hidden Citadel]] |
+>  | Party                            | Session #                              | Name                                                                                                          |
+> | -------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+> | <ul><li>Super Troopers</li></ul> | <div style='text-align:center'>4</div> | [[The Campaign/Super Troopers/Session Recaps/Counterfeit Chaos Unveiled\|Counterfeit Chaos Unveiled]]      |
+> | <ul><li>Vagabonds</li></ul>      | <div style='text-align:center'>1</div> | [[The Campaign/Vagabonds/Session Recaps/Chaos at Cri Chnuas Market\|Chaos at Cri Chnuas Market]]           |
+> | <ul><li>Vagabonds</li></ul>      | <div style='text-align:center'>2</div> | [[The Campaign/Vagabonds/Session Recaps/Mysteries of the Hidden Citadel\|Mysteries of the Hidden Citadel]] |
 > 
 { .block-language-dataview}
 
