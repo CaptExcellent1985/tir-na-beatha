@@ -42,10 +42,11 @@
 > Insert quick summary of historical events
 
 #### Prominent Figures
->  | Name                                                      | Currently At                                     | Faction                                      | Status | Alignment    | Disposition |
-> | --------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- | ------ | ------------ | ----------- |
-> | [[NPCs/Contemporary/Aoife Coirpeach\|Aoife Coirpeach]] | [[Geography/City/Aite-Briethe\|Aite-Briethe]] | [[Factions/Weave-mothers\|Weave-mothers]] | Alive  | Lawful Evil  | 🟢 Friendly |
-> | [[NPCs/Contemporary/Renna Dubhán\|Renna Dubhán]]       | [[Geography/City/Aite-Briethe\|Aite-Briethe]] | [[Factions/Weave-mothers\|Weave-mothers]] | Alive  | Chaotic Good | 🟡 Neutral  |
+>  | Name                                                        | Currently At                                             | Faction                                      | Status | Alignment    | Disposition |
+> | ----------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------- | ------ | ------------ | ----------- |
+> | [[NPCs/Contemporary/Aoife Coirpeach\|Aoife Coirpeach]]   | [[Geography/City/Aite-Briethe\|Aite-Briethe]]         | [[Factions/Weave-mothers\|Weave-mothers]] | Alive  | Lawful Evil  | 🟢 Friendly |
+> | [[NPCs/Contemporary/Renna Dubhán\|Renna Dubhán]]         | [[Geography/City/Aite-Briethe\|Aite-Briethe]]         | [[Factions/Weave-mothers\|Weave-mothers]] | Alive  | Chaotic Good | 🟡 Neutral  |
+> | [[NPCs/Contemporary/Thalin Snowberry\|Thalin Snowberry]] | [[Geography/Region/Fossmore Forest\|Fossmore Forest]] | [[Factions/Cailleotairi\|Cailleotairi]]   | Dead   | Chaotic Evil | 🔴 Hostile  |
 > 
 { .block-language-dataview}
 

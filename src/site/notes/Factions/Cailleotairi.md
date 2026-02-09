@@ -94,6 +94,7 @@
 > | [[NPCs/Contemporary/Voshtai\|Voshtai]]                                           | Alive   | [[Factions/Cailleotairi\|Saois]]                | [[The Tribes/Lizard-folk\|Lizard-folk]] | Lawful Good  | 🟢 Friendly |
 > | [[NPCs/Contemporary/Cormac McCarthy\|Cormac McCarthy]]                           | Dead    | [[Factions/Cailleotairi\|Comhracoiri]]          | [[The Tribes/Goliath\|Goliath]]         | N/A          | N/A         |
 > | [[NPCs/Historical/Kallista Cinderwind\|Kallista Cinderwind]]                     | Dead    | Founder                                            | [[The Tribes/Tieflings\|Tieflings]]     | Neutral      | 🟡 Neutral  |
+> | [[NPCs/Contemporary/Thalin Snowberry\|Thalin Snowberry]]                         | Dead    | Expelled                                           | [[The Tribes/Wood Elves\|Wood Elves]]   | Chaotic Evil | 🔴 Hostile  |
 > | [[NPCs/Historical/Thorgunn Oak-knuckle\|Thorgunn Oak-knuckle]]                   | Dead    | Founder                                            | [[The Tribes/Dwarves\|Dwarves]]         | Neutral      | 🟡 Neutral  |
 > | [[NPCs/Historical/Torran Willowspeak\|Torran Willowspeak]]                       | Dead    | Founder                                            | [[The Tribes/Firbolg\|Firbolg]]         | Neutral      | 🟡 Neutral  |
 > | [[NPCs/Contemporary/Vethos\|Vethos]]                                             | Dead    | [[Factions/Cailleotairi\|Saois]]                | [[The Tribes/Lizard-folk\|Lizard-folk]] | N/A          | N/A         |

@@ -3,6 +3,8 @@
 ---
 
 
+*6 [[Cultural Matters/Sociology/Time-keeping\|Silver Moon]], 1581*
+
 ## Session Outline
 ### Debriefing in [[Geography/Locale/Siorlann\|Siorlann]]
 - The party met in the **[[Factions/Cailleotairi\|Cailleotairi]]** tower for a briefing.

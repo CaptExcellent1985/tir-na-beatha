@@ -86,8 +86,9 @@
 > Insert Character Arc Notes here
 
 #### Notable inventory
->  | Item | Type | Rank |
-> | ---- | ---- | ---- |
+>  | Item                                                     | Type                   | Rank |
+> | -------------------------------------------------------- | ---------------------- | ---- |
+> | [[The Campaign/Items/Thalin's Diary\|Thalin's Diary]] | <ul><li>Note</li></ul> | N/A  |
 > 
 { .block-language-dataview}
 
