@@ -10,6 +10,7 @@
 > | [[Geography/Region/Ceilt Ghleann Forest\|Ceilt Ghleann Forest]]   | Forest         |
 > | [[Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]]   | Mountain       |
 > | [[Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]]           | Lake           |
+> | [[Geography/Region/Cuan Realta\|Cuan Realta]]                     | Lake           |
 > | [[Geography/Region/Dallan Valley\|Dallan Valley]]                 | Valley         |
 > | [[Geography/Region/Dealt-Tradala\|Dealt-Tradala]]                 | Marsh          |
 > | [[Geography/Region/Doire Na Gealaich\|Doire Na Gealaich]]         | Forest         |
@@ -28,7 +29,6 @@
 > | [[Geography/Region/Wargbarrow Woods\|Wargbarrow Woods]]           | Forest         |
 > | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]]             | Valley         |
 > | [[Geography/Region/Whisperwood\|Whisperwood]]                     | Forest         |
-> | [[Geography/Region/Cuan Realta\|Cuan Realta]]                     | Lake           |
 > 
 { .block-language-dataview}
 
