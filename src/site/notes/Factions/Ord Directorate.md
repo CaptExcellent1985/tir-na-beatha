@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> ![The Iron Square.png](/img/user/Assets/The%20Iron%20Square.png)
+> ![TheIronSquare.png](/img/user/Assets/TheIronSquare.png)
 > 
 > | Ord Directorate |                                  |
 > | ------------------ | -------------------------------- |
