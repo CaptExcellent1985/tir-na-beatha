@@ -5,7 +5,7 @@
 > [!infobox]
 > # Torin Iron-Heart  
 > # (N/A)
->![TorinIron-Heart.png](/img/user/Assets/TorinIron-Heart.png)
+>![TorinIronHeart.png](/img/user/Assets/TorinIronHeart.png)
 > 
 > | Attributes |     |
 > | ---------- | --- |
