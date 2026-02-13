@@ -10,10 +10,10 @@
 > | ----------- | --- |
 > | Homeland    |   N/A   |
 > | Capital | [[Geography/City/Ceardaigh\|Ceardaigh]] |
-> | Factions    |  N/A   |
+> | Factions    |  [[Factions/Traditionalists\|Traditionalists]], [[Factions/Ord Directorate\|Ord Directorate]]   |
 > | Disposition |  🟡 Neutral   |
-> | Values      |  N/A   |
-> | Taboos      |  N/A   |
+> | Values      |  Order and Craft   |
+> | Taboos      |  Chaos and Lay-abouts   |
 > | Politics    |  [[Factions/Ord Directorate\|Ord Directorate]]   |
 > | Economics   |  Craftmanship, lumber   |
 > | Allies      |  [[The Tribes/Gnomes\|Gnomes]], [[The Tribes/Lizard-folk\|Lizard-folk]]   |
