@@ -6,6 +6,7 @@
 #### Dieties
 >  | Dieties                                         | Domains                                                                  | Alignment    | Assoc. Tribes                                                                                                                                           |
 > | ----------------------------------------------- | ------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[Religion/Pantheon/Aengus\|Aengus]]         | <ul><li>Beauty</li><li>Love</li><li>Peace</li></ul>                      | N/A          | <ul><li>[[The Tribes/Halflings.md\\|Halflings]]</li><li>[[The Tribes/Goblins.md\\|Goblins]]</li></ul>                                                   |
 > | [[Religion/Pantheon/Arianrhod\|Arianrhod]]   | <ul><li>Fertility</li><li>Moon</li><li>Twilight</li></ul>                | Chaotic Good | <ul><li>[[The Tribes/Tabaxi.md\\|Tabaxi]]</li><li>[[The Tribes/Twilight Elves.md\\|Twilight Elves]]</li></ul>                                           |
 > | [[Religion/Pantheon/Belenus\|Belenus]]       | <ul><li>Light</li><li>Sun</li><li>Fire</li></ul>                         | N/A          | <ul><li>[[The Tribes/Firbolg.md\\|Firbolg]]</li><li>[[The Tribes/Goliath.md\\|Goliath]]</li></ul>                                                       |
 > | [[Religion/Pantheon/Blodeuwedd\|Blodeuwedd]] | <ul><li>Flowers</li><li>Knowledge</li><li>Peace</li><li>Wisdom</li></ul> | Neutral      | <ul><li>[[The Tribes/Wood Elves.md\\|Wood Elves]]</li><li>[[The Tribes/Kenku.md\\|Kenku]]</li></ul>                                                     |
@@ -18,7 +19,6 @@
 > | [[Religion/Pantheon/Ogmios\|Ogmios]]         | <ul><li>Eloquence</li><li>Knowledge</li></ul>                            | N/A          | <ul><li>[[The Tribes/Gnomes.md\\|Gnomes]]</li><li>[[The Tribes/Halflings.md\\|Halflings]]</li><li>[[The Tribes/Lizard-folk.md\\|Lizard-folk]]</li></ul> |
 > | [[Religion/Pantheon/Taranis\|Taranis]]       | <ul><li>Tempest</li><li>War</li></ul>                                    | Neutral      | <ul><li>[[The Tribes/Eladrin.md\\|Eladrin]]</li><li>[[The Tribes/Lizard-folk.md\\|Lizard-folk]]</li></ul>                                               |
 > | [[Religion/Pantheon/The Dagda\|The Dagda]]   | <ul><li>Agriculture</li><li>Fertility</li><li>Weather</li></ul>          | N/A          | <ul><li>[[The Tribes/Halflings.md\\|Halflings]]</li><li>[[The Tribes/Tritons.md\\|Tritons]]</li></ul>                                                   |
-> | [[Religion/Pantheon/Aengus\|Aengus]]         | <ul><li>Beauty</li><li>Love</li><li>Peace</li></ul>                      | N/A          | <ul><li>[[The Tribes/Halflings.md\\|Halflings]]</li><li>[[The Tribes/Goblins.md\\|Goblins]]</li></ul>                                                   |
 > 
 { .block-language-dataview}
 

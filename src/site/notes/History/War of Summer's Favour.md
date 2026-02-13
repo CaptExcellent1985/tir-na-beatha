@@ -16,7 +16,7 @@
 
 #### Quick Summary
 
-> Insert a quick blurb about the events here, one or two paragraphs at most that can be easily skimmed
+> Clan Ceardaigh, the most prominent clan of what was coming to be known as the Dwarves, used knowledge of carpentry and early stone/metal working to create permanent structures in the foothills of the Cnoic Aran mountains. They believed that a unified and structured authority was necessary to prevail over the chaos of the Anord and begin to impose this order over the other Proto-Tuatha. The tribes that would become the Wood Elves and the Tieflings rejected this authority and launched aggressive attacks against Dwarven settlements. Early Gnomish Clans ally with the Dwarves, as do the Tabaxi. Each side claims to be fighting in honour of the Summer Queen - the Dwarves on the side of Order, and the Tieflings/Wood Elves on the side of Freedom.
 
 #### Detailed Summary
 

@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> ![TheIronSquare.png](/img/user/Assets/TheIronSquare.png)
+> ![TheIronSquare.png](/img/user/Assets/Symbols/TheIronSquare.png)
 > 
 > | Ord Directorate |                                  |
 > | ------------------ | -------------------------------- |
@@ -17,7 +17,7 @@
 > | Resources          | Great reserves of lumber and iron      |
 > | Leader             | [[NPCs/Contemporary/Torin Iron-Heart\|Torin Iron-Heart]]         |
 > | Allies             | [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]] |
-> | Rivals             | N/A  |
+> | Rivals             | [[Factions/Traditionalists\|Traditionalists]]  |
 > | Disposition        | 🟡 Neutral    |
 
 #### Summary
@@ -37,7 +37,7 @@
 > Iron is the destiny of the [[The Tribes/Dwarves\|Dwarves]]. Their connection to [[Religion/Pantheon/Govannon\|Govannon]] gives them the skill and the strength to shape it into great implements of change and prosperity. Clinging to the old ways will only invite the chaos of [[Cultural Matters/Metaphysics/The Anord\|the Anord]]. 
 
 #### Hierarchy
->![Ord Directorate.jpg](/img/user/Ord%20Directorate.jpg)
+>![Ord Directorate.jpg](/img/user/Assets/Ord%20Directorate.jpg)
 >
 > | Title                 | Description                                                                                                                                                                                                                                                                                                                                    |
 > | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,30 +54,30 @@
 > | The Slag-Watch        | Internal Police force. They keep the peace and ensure that all [[The Tribes/Dwarves\|Dwarves]] are fulfilling their purpose. The identity of individual members serving in the Slag-Watch is kept anonymous to protect their families.                                                                                                                                 |
 
 #### History
-###### Torin Leads Clan [[Geography/City/Ceardaigh\|Ceardaigh]]
-> In the year 1540, Torin [[Geography/City/Ceardaigh\|Ceardaigh]] is selected to lead his clan. At the age of 28, he is one of the youngest ever chosen to lead a Dwarven Clan and he approaches this task with passion and zealotry. He begins to lead the clan away from traditional logging and uses their influence to monopolize the burgeoning trade of peat iron. 
+###### [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] Leads Clan [[Geography/City/Ceardaigh\|Ceardaigh]]
+> In the year 1540, [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] [[Geography/City/Ceardaigh\|Ceardaigh]] is selected to lead his clan. At the age of 28, he is one of the youngest ever chosen to lead a Dwarven Clan and he approaches this task with passion and zealotry. He begins to lead the clan away from traditional logging and uses their influence to monopolize the burgeoning trade of peat iron. 
 
 ###### The Iron Scrip Coup
-> Believing the [[Cultural Matters/Physical/Currency & Trade\|knots]] to be soft and weak and fundamentally unstable as a form of currency, and wanting to increase the influence of [[The Tribes/Dwarves\|Dwarves]] in the [[01 -Tir Na Beatha\|Tir]], Torin creates the Iron Scrip in 1551 and forces all merchants within [[Geography/City/Ceardaigh\|Ceardaigh]] to conduct business only in Scrips. This catches the attention of the [[Factions/Weave-mothers\|Weave-mothers]] and in 1552, a joint operation of the [[Factions/Weave-mothers\|Weave-mothers]] and the [[Factions/Cailleotairi\|Cailleotairi]] apprehend Torin and sentence  him to imprisonment in [[Geography/Landmark/Dún Réamheola\|Dún Réamheola]] for 5 years.
+> Believing the [[Cultural Matters/Physical/Currency & Trade\|knots]] to be soft and weak and fundamentally unstable as a form of currency, and wanting to increase the influence of [[The Tribes/Dwarves\|Dwarves]] in the [[01 -Tir Na Beatha\|Tir]], [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] creates the Iron Scrip in 1551 and forces all merchants within [[Geography/City/Ceardaigh\|Ceardaigh]] to conduct business only in Scrips. This catches the attention of the [[Factions/Weave-mothers\|Weave-mothers]] and in 1552, a joint operation of the [[Factions/Weave-mothers\|Weave-mothers]] and the [[Factions/Cailleotairi\|Cailleotairi]] apprehend [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] and sentence  him to imprisonment in [[Geography/Landmark/Dún Réamheola\|Dún Réamheola]] for 5 years.
 > 
 
-###### Torin Appointed as Delegate to [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]]
-> After his successor of Clan [[Geography/City/Ceardaigh\|Ceardaigh]] dies from natural causes, Torin is once again selected to lead the Clan in the year 1558. In 1560, he appoints himself as the Dwarven Delegate to serve on the [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]]. There he uses his voice and vote to argue for the abolition of the [[Factions/Weave-mothers\|Weave-mothers]] and for the [[Factions/Cailleotairi\|Cailleotairi]] to be placed firmly under control of the [[Factions/Council of Aite-Briethe\|Council]]. He is largely unsuccessful, however, this gains him more support amongst the Dwarven clans.
+###### [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] Appointed as Delegate to [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]]
+> After his successor of Clan [[Geography/City/Ceardaigh\|Ceardaigh]] dies from natural causes, [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] is once again selected to lead the Clan in the year 1558. In 1560, he appoints himself as the Dwarven Delegate to serve on the [[Factions/Council of Aite-Briethe\|Council of Aite-Briethe]]. There he uses his voice and vote to argue for the abolition of the [[Factions/Weave-mothers\|Weave-mothers]] and for the [[Factions/Cailleotairi\|Cailleotairi]] to be placed firmly under control of the [[Factions/Council of Aite-Briethe\|Council]]. He is largely unsuccessful, however, this gains him more support amongst the Dwarven clans.
 
 ###### [[History/War of the Severed Root\|War of the Severed Root]]
->  Dwarven logging enterprises in [[Geography/Region/Fossmore Forest\|Fossmore Forest]] are attacked by Wood Elven hit-squads. Torin returns to [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] to take command of the Dwarven forces and leads them in strikes against [[The Tribes/Wood Elves\|Wood Elf]] settlements on the borders. This escalates into a full-blown war between the [[The Tribes/Dwarves\|Dwarves]] and the [[The Tribes/Wood Elves\|Wood Elves]] beginning in the year 1568.
+>  Dwarven logging enterprises in [[Geography/Region/Fossmore Forest\|Fossmore Forest]] are attacked by Wood Elven hit-squads. [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] returns to [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] to take command of the Dwarven forces and leads them in strikes against [[The Tribes/Wood Elves\|Wood Elf]] settlements on the borders. This escalates into a full-blown war between the [[The Tribes/Dwarves\|Dwarves]] and the [[The Tribes/Wood Elves\|Wood Elves]] beginning in the year 1568.
 
-###### [[History/Treaty of Green-Ash\|Treaty of Green-Ash]]
-> In 1571, the [[The Tribes/Dwarves\|Dwarves]] are defeated after [[The Tribes/Wood Elves\|Wood Elves]] capture [[Geography/City/Tre Coedwig\|Tre Coedwig]], a prominent center of the logging industry and trading hub. The Treaty sees key territories ceded to the [[The Tribes/Wood Elves\|Wood Elves]], a strict embargo on any logging in [[Geography/Region/Fossmore Forest\|Fossmore Forest]], and the removal of key iron trade routes from [[Geography/Region/Draigsreach Peninsula\|Draigsreach Peninsula]] through [[The Tribes/Wood Elves\|Wood Elf]] territory. Torin refuses to sign this treaty, but is over-ridden by the traditionalist Old Guard leading rival major clans.
+###### [[History/Treaty of Green Ash\|Treaty of Green Ash]]
+> In 1571, the [[The Tribes/Dwarves\|Dwarves]] are defeated after [[The Tribes/Wood Elves\|Wood Elves]] capture [[Geography/City/Tre Coedwig\|Tre Coedwig]], a prominent center of the logging industry and trading hub. The Treaty sees key territories ceded to the [[The Tribes/Wood Elves\|Wood Elves]], a strict embargo on any logging in [[Geography/Region/Fossmore Forest\|Fossmore Forest]], and the removal of key iron trade routes from [[Geography/Region/Draigsreach Peninsula\|Draigsreach Peninsula]] through [[The Tribes/Wood Elves\|Wood Elf]] territory. [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] refuses to sign this treaty, but is over-ridden by the traditionalist Old Guard leading rival major clans.
 
 ###### The Years of Rust
-> Following the defeat and the signing of the Treaty, the Dwarven clans are hit hard by economic troubles. Torin delivers fiery speeches to masses of [[The Tribes/Dwarves\|Dwarves]] gathered in that taverns and drinking halls, declaring that the traditionalists have failed the Dwarven people. He gathers more support amongst veterans and the lower clans, and uses the belief that Weave-Mother [[Factions/Weave-mothers\|Silk-Matron]]'s have been unfairly ruling against Dwarven merchants in trade disputes to stir up more animosity for non-[[The Tribes/Dwarves\|Dwarves]]. 
+> Following the defeat and the signing of the Treaty, the Dwarven clans are hit hard by economic troubles. [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] delivers fiery speeches to masses of [[The Tribes/Dwarves\|Dwarves]] gathered in that taverns and drinking halls, declaring that the [[Factions/Traditionalists\|traditionalists]] have failed the Dwarven people. He gathers more support amongst veterans and the lower clans, and uses the belief that Weave-Mother [[Factions/Weave-mothers\|Silk-Matron]]'s have been unfairly ruling against Dwarven merchants in trade disputes to stir up more animosity for non-[[The Tribes/Dwarves\|Dwarves]]. 
 
 ##### The [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]]
-> Dwarven traditionalist forces are called to aid the [[The Tribes/Gnomes\|Gnomes]] during the [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]] of 1575. Torin see's this as the opportunity he needed and puts out a call to all loyal and patriotic [[The Tribes/Dwarves\|Dwarves]] to join him in marching on the clans to restore the Honour of the [[The Tribes/Dwarves\|Dwarves]]. His gathered forces overwhelm what meager resistance there is, and Clan leaders are executed. 
+> Dwarven traditionalist forces are called to aid the [[The Tribes/Gnomes\|Gnomes]] during the [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]] of 1575. [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] see's this as the opportunity he needed and puts out a call to all loyal and patriotic [[The Tribes/Dwarves\|Dwarves]] to join him in marching on the clans to restore the Honour of the [[The Tribes/Dwarves\|Dwarves]]. His gathered forces overwhelm what meager resistance there is, and Clan leaders are executed. 
 
 ###### Ord Directorate Consolidated
-> Using the implied threat of force, Torin is able to install new clan leaders who are loyal to him. With loyalists now leading all of the major clans, and popular support amongst the lesser clans, he declares that the [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]] was a result of weak leadership and that it would take strength and discipline to ensure that such a fate can never befall the [[The Tribes/Dwarves\|Dwarves]]. He declares himself the Ord-Ri of the new Ord Directorate. 
+> Using the implied threat of force, [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] is able to install new clan leaders who are loyal to him. With loyalists now leading all of the major clans, and popular support amongst the lesser clans, he declares that the [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]] was a result of weak leadership and that it would take strength and discipline to ensure that such a fate can never befall the [[The Tribes/Dwarves\|Dwarves]]. He declares himself the Ord-Ri of the new Ord Directorate. 
 
 #### Prominent Members
 >  | Name                                                        | Status | Rank   | Tribe                              | Alignment   | Disposition |

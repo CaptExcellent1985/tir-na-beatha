@@ -16,7 +16,8 @@
 
 #### Quick Summary
 
-> Insert a quick blurb about the events here, one or two paragraphs at most that can be easily skimmed
+> As the developing Dwarves struggled against the chaotic Fey magics and the aggressive Tieflings, they turned to Govannon, the Smith God. Govannon was originally a particularly powerful Fey Spirit drawn to the structured logic of the Old Ones' engineering. The Dwarves swore an oath to Govannon to value order, craft, and permanence (woodworking at first) and to be the bulwark against chaos. He instructed the Dwarves in the construction of a magical weapon that, when unleashed, decimated the Tiefling’s home of Caillech’s Foot and pushed them into exile in the cruel Cnoic Aran Mountains. 
+
 
 #### Detailed Summary
 

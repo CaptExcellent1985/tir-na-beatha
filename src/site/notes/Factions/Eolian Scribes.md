@@ -17,7 +17,7 @@
 > | Resources          | N/A      |
 > | Leader             | N/A         |
 > | Allies             | N/A |
-> | Rivals             | N/A  |
+> | Rivals             | [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]]  |
 > | Disposition        | N/A    |
 
 #### Summary

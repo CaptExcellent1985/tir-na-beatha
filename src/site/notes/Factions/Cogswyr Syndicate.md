@@ -16,8 +16,8 @@
 > | Membership         | N/A |
 > | Resources          | N/A      |
 > | Leader             | N/A         |
-> | Allies             | N/A |
-> | Rivals             | N/A  |
+> | Allies             | [[Factions/Ord Directorate\|Ord Directorate]] |
+> | Rivals             | [[Factions/Eolian Scribes\|Eolian Scribes]]  |
 > | Disposition        | N/A    |
 
 #### Summary

@@ -16,7 +16,7 @@
 
 #### Quick Summary
 
-> Insert a quick blurb about the events here, one or two paragraphs at most that can be easily skimmed
+> The [[The Tribes/Tieflings\|Tieflings]] unleash potent wild magic called the Rimeblast that destroys the original foundation of [[Geography/City/Ceardaigh\|Ceardaigh]]. The [[The Tribes/Dwarves\|Dwarves]] retreat and resolve that order must be crafted, not imposed. The horror of the Rimeblast inspires the early [[The Tribes/Gnomes\|Gnomes]] to begin dedicated study of magic in the [[01 -Tir Na Beatha\|Tir]].
 
 #### Detailed Summary
 

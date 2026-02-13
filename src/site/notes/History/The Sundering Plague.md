@@ -16,7 +16,8 @@
 
 #### Quick Summary
 
-> Insert a quick blurb about the events here, one or two paragraphs at most that can be easily skimmed
+> A great illness began to afflict Proto-Tuatha. Within a matter of time, it came to be believed that the area itself was cursed and the Proto-Tuatha struck out into the [[01 -Tir Na Beatha\|Tir]]. Those who headed north and followed the coast of [[Geography/Region/Cuan Realta\|Cuan Realta]] settled in the area of the [[Geography/Region/Musewood\|Musewood]] and would become the [[The Tribes/Eladrin\|Eladrin]]. Some headed south of [[Geography/City/Aite-Briethe\|Aite-Briethe]] and convinced that the disease was caused by the technology of the [[Factions/Ancient Ones\|Ancient Ones]] became the [[The Tribes/Wood Elves\|Wood Elves]]. Some opted to stay behind to tend to those who were too sick to travel. These eventually became the [[The Tribes/Twilight Elves\|Twilight Elves]], who were convinced by a [[The Tribes/Feyfolk\|Fey]]-Spirit to head to the North-west, to the dead-lands known as [[Geography/Region/Na Tirean Marbh\|Na Tirean Marbh]] and to usher the dead to the after-life. This also would become the March of the Dead.
+
 
 #### Detailed Summary
 
