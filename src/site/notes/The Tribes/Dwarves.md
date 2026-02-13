@@ -99,12 +99,4 @@
 > 
 { .block-language-dataview}
 
-%%
-#### DM's Notes
-- An Snoí-Fíor (The True Carving) - Rite of Passage (13th Birthday)
-- The Directorate keeps the election process for selecting chieftains of a Clan, but rig the outcome.
-- Although the Land belongs to the people, [[NPCs/Contemporary/Torin Iron-Heart\|Torin]] believes that as the Voice of the People, the Land is his by proxy. 
-- The [[Factions/Ord Directorate\|Ord Directorate]] has changed the fosterage system and now send young dwarves to the Ceard-Scoil for education and to inspire loyalty to the State. 
-- The [[Factions/Ord Directorate\|Ord Directorate]] applies to the system of justice to work gangs, an entire work gang is punished if one member is found to be doing wrong. 
-- The [[Factions/Ord Directorate\|Ord Directorate]] now owns all of the tools and punish those who speak against them by repossessing the tools. 
 
