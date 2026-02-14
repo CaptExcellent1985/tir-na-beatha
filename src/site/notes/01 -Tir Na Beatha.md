@@ -29,6 +29,7 @@
 > | [[Geography/Region/Tiriosann River\|Tiriosann River]]             | River          |
 > | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]]             | Valley         |
 > | [[Geography/Region/Whisperwood\|Whisperwood]]                     | Forest         |
+> | [[Geography/Region/Abhaine Nathair\|Abhaine Nathair]]             | River          |
 > 
 { .block-language-dataview}
 

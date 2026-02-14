@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> Insert Image Here, preceded by ! to embed image
+> ![TreCoedwig.png](/img/user/Assets/Locations/TreCoedwig.png)
 > 
 > |   Tre Coedwig          |     |
 > | ------------------ | --- |

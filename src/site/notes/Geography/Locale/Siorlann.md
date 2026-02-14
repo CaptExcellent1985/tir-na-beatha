@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
->  Insert Image Here, preceded by ! to embed
+>  ![Siorlann.png](/img/user/Assets/Locations/Siorlann.png)
 >  
 > |   Siorlann              |     |
 > | --------------- | --- |

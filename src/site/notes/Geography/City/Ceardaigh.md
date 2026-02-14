@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
-> Insert Image Here, preceded by ! to embed image
+> ![Ceardaigh.png](/img/user/Assets/Locations/Ceardaigh.png)
 > 
 > |   Ceardaigh          |     |
 > | ------------------ | --- |

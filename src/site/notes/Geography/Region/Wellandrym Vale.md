@@ -15,7 +15,7 @@
 
 
 #### Summary
-> The Wellandrym Vale is a massive geological scar running north-to-south, bounded by sheer limestone cliffs on the east and west that rise hundreds of feet into the air. It serves as the great artery between the northern waters of [[Geography/Region/Cuan Realta\|Cuan Realta]] and the southern depths of [[Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]]. Bisecting the valley is the Abhaine Nathair, a fast-flowing body of water that connects the two oceans.
+> The Wellandrym Vale is a massive geological scar running north-to-south, bounded by sheer limestone cliffs on the east and west that rise hundreds of feet into the air. It serves as the great artery between the northern waters of [[Geography/Region/Cuan Realta\|Cuan Realta]] and the southern depths of [[Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]]. Bisecting the valley is the[[Geography/Region/Abhaine Nathair\|Abhaine Nathair]], a fast-flowing body of water that connects the two oceans.
 > 
 > To the casual observer standing on the cliff tops, the Vale looks like a river of unbroken green; a lush, primeval forest that swallowed the valley floor. However, the atmosphere within is claustrophobic and twilight-dim. The canopy is so dense that direct sunlight rarely touches the ground, and the air is humid, smelling of wet earth, crushed mint, and ozone. It is a place that feels purposefully hostile to "Tall Folk," a natural fortress of thorns and shadows where [[Religion/Pantheon/Cernunnos\|Cernunnos]]’s chaotic influence is felt in every snagging vine.
 
@@ -39,6 +39,7 @@
 >  | Name                                                         | Type     | Sub-Type | Primary NPC |
 > | ------------------------------------------------------------ | -------- | -------- | ----------- |
 > | [[Geography/City/Cri Chnuas\|Cri Chnuas]]                 | City     | Capital  | N/A         |
+> | [[Geography/Region/Abhaine Nathair\|Abhaine Nathair]]     | Landmark | N/A      | N/A         |
 > | [[Geography/Landmark/Cleverclaw Creek\|Cleverclaw Creek]] | Landmark | Natural  | N/A         |
 > 
 { .block-language-dataview} 

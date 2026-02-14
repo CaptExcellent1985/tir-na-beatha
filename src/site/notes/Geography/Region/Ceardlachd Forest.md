@@ -4,7 +4,7 @@
 
 
 >[!Infobox]
-> Insert Image Here preceded by !
+> ![CeardlachdForest.png](/img/user/Assets/Locations/CeardlachdForest.png)
 > 
 > | Ceardlachd Forest  |     |
 > | ------------------- | --- |

@@ -4,7 +4,7 @@
 
 
 >[!Infobox]
-> Insert Image Here preceded by !
+> ![CnoicAranMountains.png](/img/user/Assets/Locations/CnoicAranMountains.png)
 > 
 > | Cnoic Aran Mountains  |     |
 > | ------------------- | --- |

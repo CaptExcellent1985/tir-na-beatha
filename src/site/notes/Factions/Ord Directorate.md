@@ -37,7 +37,7 @@
 > Iron is the destiny of the [[The Tribes/Dwarves\|Dwarves]]. Their connection to [[Religion/Pantheon/Govannon\|Govannon]] gives them the skill and the strength to shape it into great implements of change and prosperity. Clinging to the old ways will only invite the chaos of [[Cultural Matters/Metaphysics/The Anord\|the Anord]]. 
 
 #### Hierarchy
->![Ord Directorate.jpg](/img/user/Assets/Ord%20Directorate.jpg)
+>![Ord Directorate.jpg](/img/user/Assets/Hierarchies/Ord%20Directorate.jpg)
 >
 > | Title                 | Description                                                                                                                                                                                                                                                                                                                                    |
 > | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
