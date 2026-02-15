@@ -3,7 +3,6 @@
 ---
 
 
-> [!Infobox]
 > ![PickingNeedle.png](/img/user/Assets/Objects/PickingNeedle.png)
 
 #### Description

@@ -42,17 +42,19 @@
 > Insert quick summary of historical events
 
 #### Prominent Figures
->  | Name                                          | Currently At                                           | Faction                                              | Status | Alignment    | Disposition |
-> | --------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------- | ------ | ------------ | ----------- |
-> | [[NPCs/Contemporary/Whirligig\|Whirligig]] | [[Geography/Landmark/Dún Réamheola\|Dún Réamheola]] | [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]] | Alive  | Chaotic Good | N/A         |
+>  | Name                                                  | Currently At                                                                       | Faction                                              | Status | Alignment    | Disposition |
+> | ----------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------- | ------ | ------------ | ----------- |
+> | [[NPCs/Contemporary/Twig Tinkerer\|Twig Tinkerer]] | [[Geography/Locale/Knot Your Average Magic Shop\|Knot Your Average Magic Shop]] | [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]] | Alive  | Chaotic Good | 🟢 Friendly |
+> | [[NPCs/Contemporary/Whirligig\|Whirligig]]         | [[Geography/Landmark/Dún Réamheola\|Dún Réamheola]]                             | [[Factions/Cogswyr Syndicate\|Cogswyr Syndicate]] | Alive  | Chaotic Good | N/A         |
 > 
 { .block-language-dataview}
 
 #### Prominent Locations
->  | Name                                   | Located In                                                         | Type | Sub-Type | Factions | Primary NPC |
-> | -------------------------------------- | ------------------------------------------------------------------ | ---- | -------- | -------- | ----------- |
-> | [[Geography/City/Eolas\|Eolas]]     | [[Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]] | City | N/A      | N/A      | N/A         |
-> | [[Geography/City/Cogswyr\|Cogswyr]] | [[Geography/Region/Mosslight Murmur\|Mosslight Murmur]]         | City | N/A      | N/A      | N/A         |
+>  | Name                                                                               | Located In                                                         | Type   | Sub-Type                            | Factions                                                                | Primary NPC                                           |
+> | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------ | ----------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
+> | [[Geography/City/Eolas\|Eolas]]                                                 | [[Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]] | City   | N/A                                 | N/A                                                                     | N/A                                                   |
+> | [[Geography/City/Cogswyr\|Cogswyr]]                                             | [[Geography/Region/Mosslight Murmur\|Mosslight Murmur]]         | City   | N/A                                 | N/A                                                                     | N/A                                                   |
+> | [[Geography/Locale/Knot Your Average Magic Shop\|Knot Your Average Magic Shop]] | [[Geography/City/Tre Coedwig\|Tre Coedwig]]                     | Locale | Finest Gadgets to Fell your Lumber! | <ul><li>[[Factions/Cogswyr Syndicate.md\\|Cogswyr Syndicate]]</li></ul> | [[NPCs/Contemporary/Twig Tinkerer\|Twig Tinkerer]] |
 > 
 { .block-language-dataview}
 

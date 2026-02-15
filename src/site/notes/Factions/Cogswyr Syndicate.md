@@ -36,14 +36,16 @@
 #### Prominent Members
 >  | Name                                                                    | Status  | Rank                     | Tribe                                  | Alignment    | Disposition |
 > | ----------------------------------------------------------------------- | ------- | ------------------------ | -------------------------------------- | ------------ | ----------- |
+> | [[NPCs/Contemporary/Twig Tinkerer\|Twig Tinkerer]]                   | Alive   | N/A                      | [[The Tribes/Gnomes\|Gnomes]]       | Chaotic Good | 🟢 Friendly |
 > | [[NPCs/Contemporary/Whirligig\|Whirligig]]                           | Alive   | Chief Artificer , former | [[The Tribes/Gnomes\|Gnomes]]       | Chaotic Good | N/A         |
 > | [[NPCs/Contemporary/Saiorse the Unblinking\|Saiorse the Unblinking]] | Unknown | No Longer Active         | [[The Tribes/Tieflings\|Tieflings]] | N/A          | N/A         |
 > 
 { .block-language-dataview}
 
 #### Associated Locations
->  | Name | Located In | Type | Sub-Type | Primary NPC |
-> | ---- | ---------- | ---- | -------- | ----------- |
+>  | Name                                                                               | Located In                                     | Type   | Sub-Type                            | Primary NPC                                           |
+> | ---------------------------------------------------------------------------------- | ---------------------------------------------- | ------ | ----------------------------------- | ----------------------------------------------------- |
+> | [[Geography/Locale/Knot Your Average Magic Shop\|Knot Your Average Magic Shop]] | [[Geography/City/Tre Coedwig\|Tre Coedwig]] | Locale | Finest Gadgets to Fell your Lumber! | [[NPCs/Contemporary/Twig Tinkerer\|Twig Tinkerer]] |
 > 
 { .block-language-dataview} 
 

@@ -22,11 +22,11 @@
 > Insert blurb about noteworthy Flora and Fauna of the Region
 
 #### Prominent Locations
->  | Name                                                       | Type     | Sub-Type | Primary NPC |
-> | ---------------------------------------------------------- | -------- | -------- | ----------- |
-> | [[Geography/City/Ceardaigh\|Ceardaigh]]                 | City     | N/A      | N/A         |
-> | [[Geography/City/Tre Coedwig\|Tre Coedwig]]             | City     | N/A      | N/A         |
-> | [[Geography/Landmark/Caillech's Foot\|Caillech's Foot]] | Landmark | Ruin     | N/A         |
+>  | Name                                                       | Type     | Sub-Type                      | Primary NPC |
+> | ---------------------------------------------------------- | -------- | ----------------------------- | ----------- |
+> | [[Geography/City/Ceardaigh\|Ceardaigh]]                 | City     | N/A                           | N/A         |
+> | [[Geography/City/Tre Coedwig\|Tre Coedwig]]             | City     | Trade Outpost, Lumber-Centric | N/A         |
+> | [[Geography/Landmark/Caillech's Foot\|Caillech's Foot]] | Landmark | Ruin                          | N/A         |
 > 
 { .block-language-dataview} 
 

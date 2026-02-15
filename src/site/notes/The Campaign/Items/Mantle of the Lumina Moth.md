@@ -3,7 +3,6 @@
 ---
 
 
-> [!Infobox]
 > ![MantleOfTheLuminaMoth.png](/img/user/Assets/Objects/MantleOfTheLuminaMoth.png)
 
 #### Description

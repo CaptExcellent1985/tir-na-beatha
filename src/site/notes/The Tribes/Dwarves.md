@@ -83,19 +83,21 @@
 
 
 #### Prominent Figures
->  | Name                                                              | Currently At                               | Faction                                          | Status | Alignment   | Disposition |
-> | ----------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------ | ----------- | ----------- |
-> | [[NPCs/Historical/Thorgunn Oak-knuckle\|Thorgunn Oak-knuckle]] | N/A                                        | [[Factions/Cailleotairi\|Cailleotairi]]       | Dead   | Neutral     | 🟡 Neutral  |
-> | [[NPCs/Contemporary/Torin Iron-Heart\|Torin Iron-Heart]]       | [[Geography/City/Ceardaigh\|Ceardaigh]] | [[Factions/Ord Directorate\|Ord Directorate]] | Alive  | Lawful Evil | 🟡 Neutral  |
+>  | Name                                                                                  | Currently At                                   | Faction                                          | Status | Alignment   | Disposition |
+> | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ------ | ----------- | ----------- |
+> | [[NPCs/Contemporary/Maircus Dealrach-faoi-Coedwig\|Maircus Dealrach-faoi-Coedwig]] | [[Geography/City/Tre Coedwig\|Tre Coedwig]] | [[Factions/Traditionalists\|Traditionalists]] | Alive  | Neutral     | 🔴 Hostile  |
+> | [[NPCs/Historical/Thorgunn Oak-knuckle\|Thorgunn Oak-knuckle]]                     | N/A                                            | [[Factions/Cailleotairi\|Cailleotairi]]       | Dead   | Neutral     | 🟡 Neutral  |
+> | [[NPCs/Contemporary/Torin Iron-Heart\|Torin Iron-Heart]]                           | [[Geography/City/Ceardaigh\|Ceardaigh]]     | [[Factions/Ord Directorate\|Ord Directorate]] | Alive  | Lawful Evil | 🟡 Neutral  |
 > 
 { .block-language-dataview}
 
 #### Prominent Locations
->  | Name                                                   | Located In                                                         | Type     | Sub-Type      | Factions                                                      | Primary NPC |
-> | ------------------------------------------------------ | ------------------------------------------------------------------ | -------- | ------------- | ------------------------------------------------------------- | ----------- |
-> | [[Geography/City/Ceardaigh\|Ceardaigh]]             | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]       | City     | N/A           | N/A                                                           | N/A         |
-> | [[Geography/City/Tre Coedwig\|Tre Coedwig]]         | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]       | City     | N/A           | N/A                                                           | N/A         |
-> | [[Geography/Landmark/Dún Réamheola\|Dún Réamheola]] | [[Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]] | Landmark | Institutional | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul> | N/A         |
+>  | Name                                                         | Located In                                                         | Type     | Sub-Type                      | Factions                                                            | Primary NPC |
+> | ------------------------------------------------------------ | ------------------------------------------------------------------ | -------- | ----------------------------- | ------------------------------------------------------------------- | ----------- |
+> | [[Geography/City/Ceardaigh\|Ceardaigh]]                   | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]       | City     | N/A                           | N/A                                                                 | N/A         |
+> | [[Geography/City/Tre Coedwig\|Tre Coedwig]]               | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]]       | City     | Trade Outpost, Lumber-Centric | N/A                                                                 | N/A         |
+> | [[Geography/Landmark/Dún Réamheola\|Dún Réamheola]]       | [[Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]] | Landmark | Institutional                 | <ul><li>[[Factions/Cailleotairi.md\\|Cailleotairi]]</li></ul>       | N/A         |
+> | [[Geography/Locale/The Oak and Acorn\|The Oak and Acorn]] | [[Geography/City/Tre Coedwig\|Tre Coedwig]]                     | Locale   | Communal Feast Hall           | <ul><li>[[Factions/Traditionalists.md\\|Traditionalists]]</li></ul> | N/A         |
 > 
 { .block-language-dataview}
 
