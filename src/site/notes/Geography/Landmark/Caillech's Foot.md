@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geography/landmark/caillech-s-foot/"}
+{"dg-publish":true,"permalink":"/geography/landmark/caillech-s-foot/","tags":["Common"]}
 ---
 
 

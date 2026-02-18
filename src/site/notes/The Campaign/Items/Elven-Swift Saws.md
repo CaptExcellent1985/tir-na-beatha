@@ -3,7 +3,7 @@
 ---
 
 
->![ElvenSwiftSaws.png](/img/user/Assets/ElvenSwiftSaws.png)
+>![ElvenSwiftSaws.png](/img/user/Assets/Objects/ElvenSwiftSaws.png)
 
 #### Description
 > *These lightweight saws, crafted from dragonwood and petrified bone shards and imbued with a touch of fey magic, are incredibly sharp and light*

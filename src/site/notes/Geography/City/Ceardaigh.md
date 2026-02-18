@@ -31,9 +31,10 @@
 { .block-language-dataview} 
 
 #### Notable Events
->  | Name                                        | Year | Era                     | Factions | Tribes                                                                                                |
-> | ------------------------------------------- | ---- | ----------------------- | -------- | ----------------------------------------------------------------------------------------------------- |
-> | [[History/The Rimeblast\|The Rimeblast]] | 100  | ATT (After the Telling) | N/A      | <ul><li>[[The Tribes/Tieflings.md\\|Tieflings]]</li><li>[[The Tribes/Dwarves.md\\|Dwarves]]</li></ul> |
+>  | Name                                                                  | Year | Era                     | Factions                                                                                                                      | Tribes                                                                                                |
+> | --------------------------------------------------------------------- | ---- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+> | [[History/The Rimeblast\|The Rimeblast]]                           | 100  | ATT (After the Telling) | N/A                                                                                                                           | <ul><li>[[The Tribes/Tieflings.md\\|Tieflings]]</li><li>[[The Tribes/Dwarves.md\\|Dwarves]]</li></ul> |
+> | [[History/Night of Shattered Shields\|Night of Shattered Shields]] | 1575 | ATT (After the Telling) | <ul><li>[[Factions/Ord Directorate.md\\|Ord Directorate]]</li><li>[[Factions/Traditionalists.md\\|Traditionalists]]</li></ul> | <ul><li>[[The Tribes/Dwarves.md\\|Dwarves]]</li></ul>                                                 |
 > 
 { .block-language-dataview} 
 

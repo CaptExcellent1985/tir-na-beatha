@@ -5,14 +5,14 @@
 > [!infobox]
 > # Twig Tinkerer  
 > # (N/A)
-> Insert Image Here by typing ! then Linking
+> ![TwigTinkerer.png](/img/user/Assets/Characters/TwigTinkerer.png)
 > 
 > | Attributes |     |
 > | ---------- | --- |
 > | Appearance |  Lake-blue eyes with wild and unkempt blonde hair   |
-> | Year of Birth| N/A |
+> | Year of Birth| 1545 |
 > | Year of Death | N/A |
-> | Age        |   N/A  |
+> | Age        |   36  |
 > | Pronouns   | He/Him |
 > | Features   |   Twigs and wood shavings knotted in his hair  |
 > 
@@ -22,12 +22,12 @@
 >| Disposition |  🟢 Friendly |
 >| Alignment | Chaotic Good |
 >|  Occupation |   Wood Tinkerer  |
-> | Ideal       |  N/A   |
-> | Bond        |  N/A   |
-> | Flaw        | N/A    |
-> | Motivation  | N/A    |
-> | Mannerisms  |  N/A   |
-> | Personality | N/A
+> | Ideal       |  Gadgets and Magic will yield the majesty of the lumber   |
+> | Bond        |  Tre Coedwig took me in and I will repay them with every fibre of my being   |
+> | Flaw        | I will do what is right in the end.    |
+> | Motivation  | The timber trade must prevail to keep my community thriving    |
+> | Mannerisms  |  Talks fast, twitchy, devoted to his work.   |
+> | Personality | Devoted to his work
 > 
 > 
 > | Connections |                            |
@@ -40,22 +40,15 @@
 
 #### Physical Appearance
 
-> Short description of the NPC's physical appearance
+> This diminutive gnome has dilated eyes the color of a deep lake and blonde hair that is unwashed and filled with twigs and wood shavings. He wears scraps of furs and whatever he can tie together in a hurry - no time for clothing!
 
 #### Personality
 
-###### Sub-heading
-> Further details about ideals, bonds, flaws, motivations, mannerisms.
+###### Erratic yet focused
+> Twig Tinkerer speaks fast and twitchy, his speech bouncing from topic to topic as they strike his admittedly addled brain. Despite this, his devotion to his work shines through. He views his tinkering as necessary to make the Dwarves of Tre Coedwig more efficient and productive. He wants nothing more than for the lumberjacks and carpenters of the town to easily fulfill their quotas and maintain their limited independence. He often takes to inhaling the fumes of his varnishes and polishes for an extra boost of energy, or a bit of "inspiration". 
 
 
 #### Biography 
 
-> Quick Blurb here, no more than 1 or 2 paragraphs.
+> Twig Tinkerer knew from an early age that he wanted to become a tinkerer. Watching his father put together seemingly useless artifacts his uncles gathered from the ruins of the Mosslight Murmur was the only thing that could calm his mind down enough for coherent thoughts to emerge. His first contraption, an automatic spoon, was impressive enough to gain him admittance as a junior associate with the Cogswyr Syndicate. He was a quick study, but his obsessive nature saw him devote much of his time to eccentric areas of study and limited his progression through their ranks. In the wake of the Rogue Scholar's Crisis, he fled Cogswyr and took up residence in Tre Coedwig, where he soon found a passion for concocting gadgets to aid the local lumber trade. 
 
-###### Sub-Heading
-
-> Go into detail here. Include new Sub-headings to keep concepts grouped together. Cross-link to Events if needed.
-
-#### Campaign Notes
-
-- Insert  quick DM notes here to be integrated later.

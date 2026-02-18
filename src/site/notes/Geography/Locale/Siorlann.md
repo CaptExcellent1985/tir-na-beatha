@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geography/locale/siorlann/"}
+{"dg-publish":true,"permalink":"/geography/locale/siorlann/","tags":["Common"]}
 ---
 
 

@@ -26,6 +26,12 @@
 #### Culture
 > Insert notes on culture here
 
+###### Social Structure
+> MEOW MEOW BEANS
+
+###### Customs
+> I GO PURRRR
+
 ###### Primary Dieties
 >  | Name                                        | Domains                                                 | Alignment    |
 > | ------------------------------------------- | ------------------------------------------------------- | ------------ |

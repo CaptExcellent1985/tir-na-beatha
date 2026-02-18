@@ -3,7 +3,7 @@
 ---
 
 
->![CompassOfFallingGiants.png](/img/user/Assets/CompassOfFallingGiants.png)
+>![CompassOfFallingGiants.png](/img/user/Assets/Objects/CompassOfFallingGiants.png)
 
 #### Description
 > *This intricate compass, housed in a polished hardwood case, points not to magnetic north, but to the nearest location where a large tree has recently fallen.*

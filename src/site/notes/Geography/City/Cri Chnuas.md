@@ -19,6 +19,7 @@
 
 #### Summary
 > Within the [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]], the city of Cri Chnuas is a marvel of [[The Tribes/Kobolds\|Kobold]] ingenuity. A sprawling cavern complex of multiple levels, only the upper-most one is open to other Tuatha. Entrance to the city is through [[Geography/Landmark/Cleverclaw Creek\|Cleverclaw Creek]], and requires a hefty toll to the [[The Tribes/Tritons\|Triton]] ferrymen that run the rivers. Landing at [[Geography/Locale/Matriarch's Rest\|Matriarch's Rest]], most travellers will immediately head to either the [[Geography/Locale/Scaled Market\|Scaled Market]] or the [[Geography/Locale/Ember-Belly Inn\|Ember-Belly Inn]]. The infamous Cinder-Cask Ale is brewed here in the city, with a brewery open to the public for tasting and direct sales. A shrine devoted to [[Religion/Pantheon/Cernunnos\|Cernunnos]] is also located on the primary level. 
+> 
 > Access to the lower levels is strictly prohibited. Non-[[The Tribes/Kobolds\|Kobolds]] who wish to gain access must prove themselves to be trustworthy to the tribe, or prove they have the favour of [[Religion/Pantheon/Cernunnos\|Cernunnos]] himself. Natives of the City are aware of many secret tunnels that lead to and from it, and hold this knowledge tightly. Even if non-[[The Tribes/Kobolds\|Kobolds]] were to learn of them, they are constructed to be so tiny and so full of traps that only a [[The Tribes/Kobolds\|Kobold]] could navigate them. 
 
 

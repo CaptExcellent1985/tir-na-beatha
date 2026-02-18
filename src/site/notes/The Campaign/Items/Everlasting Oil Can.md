@@ -4,7 +4,7 @@
 
 
 
-> ![EverlastingOilCan.png](/img/user/Assets/EverlastingOilCan.png)
+> ![EverlastingOilCan.png](/img/user/Assets/Objects/EverlastingOilCan.png)
 
 #### Description
 

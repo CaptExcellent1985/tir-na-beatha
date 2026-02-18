@@ -22,7 +22,7 @@
 > 
 { .block-language-dataview}
 
-#### Observances
+#### Common Observances
 >  | Dieties                                              | Type                        | ObservedDate     | Assoc. Tribes                                 |
 > | ---------------------------------------------------- | --------------------------- | ---------------- | --------------------------------------------- |
 > | [[Religion/Observances/Feile Draoi\|Feile Draoi]] | <ul><li>Holy Days</li></ul> | 1 Midsummer Moon | <ul><li>[[02 - Tuatha.md\\|Tuatha]]</li></ul> |
