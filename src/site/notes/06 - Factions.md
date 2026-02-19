@@ -18,6 +18,7 @@
 > | [[Factions/Order of the White Tower\|Order of the White Tower]]         | N/A                                                          | N/A                                                                 | Neutral      |
 > | [[Factions/Shepherds of Brigid\|Shepherds of Brigid]]                   | N/A                                                          | <ul><li>[[The Tribes/Twilight Elves.md\\|Twilight Elves]]</li></ul> | N/A          |
 > | [[Factions/The Crimson Daggers\|The Crimson Daggers]]                   | [[Geography/City/Garnhold\|Garnhold]]                     | N/A                                                                 | Chaotic Evil |
+> | [[Factions/Traditionalists\|Traditionalists]]                           | [[Geography/Region/Ceardlachd Forest\|Ceardlachd Forest]] | <ul><li>[[The Tribes/Dwarves.md\\|Dwarves]]</li></ul>               | Lawful Good  |
 > | [[Factions/Weave-mothers\|Weave-mothers]]                               | [[Geography/Locale/Siorlann\|Siorlann]]                   | <ul><li>[[02 - Tuatha.md\\|Tuatha]]</li></ul>                       | Neutral      |
 > 
 { .block-language-dataview}
