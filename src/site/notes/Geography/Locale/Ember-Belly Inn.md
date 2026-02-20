@@ -31,14 +31,14 @@
 
 | Item / Service                                                            | Price     |     |
 | ------------------------------------------------------------------------- | --------- | --- |
-| *Menu*                                                                    |           |     |
+| **Menu**                                                                  |           |     |
 | &nbsp;&nbsp;&nbsp;&nbsp;Cinder-Cask Ale                                   | 4 single  |     |
 | &nbsp;&nbsp;&nbsp;&nbsp;Blast-Berry Stoud                                 | 5 single  |     |
 | &nbsp;&nbsp;&nbsp;&nbsp;Starshore Wine                                    | 10 single |     |
 | &nbsp;&nbsp;&nbsp;&nbsp;Roasted Glowsteak                                 | 2 double  |     |
 | &nbsp;&nbsp;&nbsp;&nbsp;Fire-Belly Stew                                   | 3 double  |     |
 | &nbsp;&nbsp;&nbsp;&nbsp;The Tunneler's Slab (salted pork and charcuterie) | 5 double  |     |
-| Lodging                                                                   | 8 double  |     |
+| **Lodging**                                                               | 8 double  |     |
 
 #### Notable Events
 >  | Name | Year | Era | Factions | Tribes |

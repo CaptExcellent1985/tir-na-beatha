@@ -21,7 +21,6 @@
 > | [[Geography/Region/Merry Mound Hills\|Merry Mound Hills]]         | Hills          |
 > | [[Geography/Region/Mosslight Murmur\|Mosslight Murmur]]           | Forest         |
 > | [[Geography/Region/Musewood\|Musewood]]                           | Forest         |
-> | [[Geography/Region/Na Carraige Mountains\|Na Carraige Mountains]] | Mountain       |
 > | [[Geography/Region/Na Tirean Marbh\|Na Tirean Marbh]]             | Marsh          |
 > | [[Geography/Region/The Feastlands\|The Feastlands]]               | Field / Plains |
 > | [[Geography/Region/The Thatch\|The Thatch]]                       | Forest         |
@@ -29,6 +28,7 @@
 > | [[Geography/Region/Wargbarrow Woods\|Wargbarrow Woods]]           | Forest         |
 > | [[Geography/Region/Wellandrym Vale\|Wellandrym Vale]]             | Valley         |
 > | [[Geography/Region/Whisperwood\|Whisperwood]]                     | Forest         |
+> | [[Geography/Region/Na Carraige Mountains\|Na Carraige Mountains]] | Mountain       |
 > 
 { .block-language-dataview}
 

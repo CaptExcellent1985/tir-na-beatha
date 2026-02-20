@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
->  Insert Image Here, preceded by ! to embed
+>  ![OakAcornExt.jpg](/img/user/Assets/OakAcornExt.jpg)
 >  
 > |   The Oak and Acorn              |     |
 > | --------------- | --- |
@@ -16,11 +16,8 @@
 > | Primary NPC     |  N/A   |
 
 #### Summary
-> Located in the center of the town, The Oak and Acorn serves as an inn and tavern for non-Dwarves who come to stay in Tre Coedwig. It is two-stories and stocked with a variety of food and drinks fit for consumption by those lacking a Dwarven constitution. 
+> Located just off the town square, The Oak and Acorn serves as an inn and tavern for non-Dwarves who come to stay in Tre Coedwig. It is two-stories and stocked with a variety of food and drinks fit for consumption by those lacking a Dwarven constitution. It is sometimes frequented by members of the town militia, and other Dwarves who do not wish to take their meals at their designated work camps. 
 
-#### Heading
-###### Sub-heading
-> Fill out information here
 
 #### Associated NPCs
 >  | Name | Status | Faction | Rank | Tribe | Alignment | Disposition |
@@ -30,13 +27,19 @@
 
 #### Goods & Services (If Needed)
 
-| Item / Service | Price |
-| -------------- | ----- |
-| Item One       | 1 gp  |
-| Item Two       | 2 gp  |
-| Item Three     | 3 gp  |
-| Item Four      | 4 gp  |
-| ...            | ...   |
+| Item / Service                                 | Price    |
+| ---------------------------------------------- | -------- |
+| **Menu**                                       |          |
+| &nbsp;&nbsp;&nbsp;&nbsp;The Woodsman's Board   | 3 double |
+| &nbsp;&nbsp;&nbsp;&nbsp;Hearth-Fires Root Stew | 1 double |
+| &nbsp;&nbsp;&nbsp;&nbsp;Venison Pie            | 5 double |
+| &nbsp;&nbsp;&nbsp;&nbsp;Wild Gnocchi           | 6 double |
+| &nbsp;&nbsp;&nbsp;&nbsp;Acorn and Honey Cake   | 2 double |
+| &nbsp;&nbsp;&nbsp;&nbsp;Baked Spiced Apples    | 1 double |
+| &nbsp;&nbsp;&nbsp;&nbsp;Ironwood Stout         | 1 double |
+| &nbsp;&nbsp;&nbsp;&nbsp;Sapling Cider          | 8 single |
+| &nbsp;&nbsp;&nbsp;&nbsp; Pine Liquor           | 8 single |
+| **Lodging**                                    | 8 double |
 
 #### Notable Events
 >  | Name | Year | Era | Factions | Tribes |
@@ -44,8 +47,6 @@
 > 
 { .block-language-dataview} 
 > 
-#### DM's Notes
 
-- Insert DM's Notes to be integrated later
 
 

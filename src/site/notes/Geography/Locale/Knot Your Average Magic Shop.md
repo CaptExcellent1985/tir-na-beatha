@@ -4,7 +4,7 @@
 
 
 > [!Infobox]
->  Insert Image Here, preceded by ! to embed
+>  ![KnotInt.jpg](/img/user/Assets/KnotInt.jpg)
 >  
 > |   Knot Your Average Magic Shop              |     |
 > | --------------- | --- |

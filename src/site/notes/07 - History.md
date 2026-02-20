@@ -37,7 +37,7 @@
 > | [[History/Discovery of Iron\|Discovery of Iron]]                                               | 1500        | ATT (After the Telling) |
 > | [[History/Awakening of the Searing Eye\|Awakening of the Searing Eye]]                         | 1520        | ATT (After the Telling) |
 > | [[History/War of the Severed Root\|War of the Severed Root]]                                   | 1568 - 1571 | ATT (After the Telling) |
-> | [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]]                                     | 1575        | ATT (After the Telling) |
 > | [[History/Night of Shattered Shields\|Night of Shattered Shields]]                             | 1575        | ATT (After the Telling) |
+> | [[History/Rogue Scholar's Crisis\|Rogue Scholar's Crisis]]                                     | 1575        | ATT (After the Telling) |
 > 
 { .block-language-dataview}

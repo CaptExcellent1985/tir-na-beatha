@@ -19,13 +19,13 @@
 > 
 > To the casual observer standing on the cliff tops, the Vale looks like a river of unbroken green; a lush, primeval forest that swallowed the valley floor. However, the atmosphere within is claustrophobic and twilight-dim. The canopy is so dense that direct sunlight rarely touches the ground, and the air is humid, smelling of wet earth, crushed mint, and ozone. It is a place that feels purposefully hostile to "Tall Folk," a natural fortress of thorns and shadows where [[Religion/Pantheon/Cernunnos\|Cernunnos]]’s chaotic influence is felt in every snagging vine.
 
-#### Flora and Fauna
+#### Flora, Fauna, and Fey
 
-> The Vale is dominated by the "Briar-Sea," a dense, tangled undergrowth that makes travel for anyone over three feet tall a miserable ordeal. The canopy consists of ancient Oak-trees and towering iron-wood trees, but the danger is the forest floor. It is a riot of hawthorn, blackberry, and gorse woven together with strangle-vines, which can constrict when brushed against. Patches of Jester's Nettle, which produce a hallucinatory effect and invoke uncontrollable fits of laughter, are common and used in [[The Tribes/Kobolds\|Kobold]] alchemy. 
+> The Vale is dominated by the "Briar-Sea," a dense, tangled undergrowth that makes travel for anyone over three feet tall a miserable ordeal. The canopy consists of ancient Oak-trees and towering iron-wood trees, but the danger is the forest floor. It is a riot of hawthorn, blackberry, and gorse woven together with strangle-vines, which can constrict when brushed against. Patches of Jester's Nettle, which produce a hallucinatory effect and invoke uncontrollable fits of laughter, are common and used in [[The Tribes/Kobolds\|Kobold]] alchemy.  Below ground, the [[The Tribes/Kobolds\|Kobolds]] farm forests of mushrooms and other fungi, such as the Glowsteak mushroom. Peppers are also abundant within the vale and is used extensively in [[The Tribes/Kobolds\|Kobold]] cuisine along with resilient tubers that can grow in the dark caverns the [[The Tribes/Kobolds\|Kobolds]] favor. 
 > 
-> Below ground, the [[The Tribes/Kobolds\|Kobolds]] farm forests of mushrooms and other fungi, such as the Glowsteak mushroom. Peppers are also abundant within the vale and is used extensively in [[The Tribes/Kobolds\|Kobold]] cuisine along with resilient tubers that can grow in the dark caverns the [[The Tribes/Kobolds\|Kobolds]] favor. 
+> Agile predators that can navigate the thorns do well here. Wildcats, giant weasels, and vipers hunt the smaller prey and anything larger that is foolish enough to try and cross the vale. The Giant Weasel has been successfully domesticated by the [[The Tribes/Kobolds\|Kobolds]], as has the deep-rothe.  
 > 
-> Agile predators that can navigate the thorns do well here. Wildcats, giant weasels, and vipers hunt the smaller prey and anything larger that is foolish enough to try and cross the vale. The Giant Weasel has been successfully domesticated by the [[The Tribes/Kobolds\|Kobolds]], as has the deep-rothe. > 
+> Far Darrig and Leshy Fey haunt the Briar-Sea, with Far Darrig sharing the Kobold's fondness for clever traps and Leshy blending in with the nettle and thorns. The darkness of the Vale is home to Darkling's, and the Meenlock delight in hunting any "Tall Folk" who attempt to make their way through the brush. Faerie Dragons can sometimes be encountered by travellers, and have been known to reward small treats or stories with gifts of their own. 
 
 ###### Snap-Husk Bush 
 > Indigenous to the shadowed paths of the Wellandrym Vale, the Snap-Husk Bush acts as a natural, volatile alarm system. The plant is characterized by swollen, pale pods that grow under extreme pressurized tension, often hidden amidst other fungi and foliage. These pods are hyper-sensitive to touch; a mere graze is enough to trigger a violent rupture, spraying needle-sharp seeds and emitting a deafening, rifle-like crack that echoes for hundreds of feet through the caverns. The local Kobolds have weaponized this ecology, deliberately cultivating the bushes along key choke points to alert their patrols to any clumsy intruders. 
@@ -51,7 +51,5 @@
 > 
 { .block-language-dataview} 
 
-#### DM's Notes
-- Insert DM's notes here, to be integrated later
 
 

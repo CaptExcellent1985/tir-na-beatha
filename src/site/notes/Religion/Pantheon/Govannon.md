@@ -35,6 +35,3 @@
 ###### Name
 > Include the details here.
 
-#### Notes
-
-- Include DM Notes here to be integrated later if necessary
