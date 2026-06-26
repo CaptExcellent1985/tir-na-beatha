@@ -10,7 +10,6 @@
 > | [[Tir Na Beatha/Geography/Region/Ceilt Ghleann Forest\|Ceilt Ghleann Forest]]   | Forest         |
 > | [[Tir Na Beatha/Geography/Region/Cnoic Aran Mountains\|Cnoic Aran Mountains]]   | Mountain       |
 > | [[Tir Na Beatha/Geography/Region/Cuan Draoidheach\|Cuan Draoidheach]]           | Lake           |
-> | [[Tir Na Beatha/Geography/Region/Cuan Realta\|Cuan Realta]]                     | Lake           |
 > | [[Tir Na Beatha/Geography/Region/Dallan Valley\|Dallan Valley]]                 | Valley         |
 > | [[Tir Na Beatha/Geography/Region/Dealt-Tradala\|Dealt-Tradala]]                 | Marsh          |
 > | [[Tir Na Beatha/Geography/Region/Doire Na Gealaich\|Doire Na Gealaich]]         | Forest         |
@@ -22,13 +21,14 @@
 > | [[Tir Na Beatha/Geography/Region/Mosslight Murmur\|Mosslight Murmur]]           | Forest         |
 > | [[Tir Na Beatha/Geography/Region/Musewood\|Musewood]]                           | Forest         |
 > | [[Tir Na Beatha/Geography/Region/Na Carraige Mountains\|Na Carraige Mountains]] | Mountain       |
-> | [[Tir Na Beatha/Geography/Region/Na Tirean Marbh\|Na Tirean Marbh]]             | Marsh          |
 > | [[Tir Na Beatha/Geography/Region/The Feastlands\|The Feastlands]]               | Field / Plains |
+> | [[Tir Na Beatha/Geography/Region/Na Tirean Marbh\|Na Tirean Marbh]]             | Marsh          |
 > | [[Tir Na Beatha/Geography/Region/The Thatch\|The Thatch]]                       | Forest         |
-> | [[Tir Na Beatha/Geography/Region/Tiriosann River\|Tiriosann River]]             | River          |
 > | [[Tir Na Beatha/Geography/Region/Wargbarrow Woods\|Wargbarrow Woods]]           | Forest         |
+> | [[Tir Na Beatha/Geography/Region/Tiriosann River\|Tiriosann River]]             | River          |
 > | [[Tir Na Beatha/Geography/Region/Wellandrym Vale\|Wellandrym Vale]]             | Valley         |
 > | [[Tir Na Beatha/Geography/Region/Whisperwood\|Whisperwood]]                     | Forest         |
+> | [[Tir Na Beatha/Geography/Region/Cuan Realta\|Cuan Realta]]                     | Lake           |
 > 
 { .block-language-dataview}
 
